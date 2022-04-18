@@ -9,19 +9,54 @@ export const experience = [
     designation: 'Senior Software  Engineer',
     year: 'July, 2019 - Present',
     company: 'Gaiasys Technology Pvt Ltd',
-    skills: ['Angular', 'Ionic', 'React']
+    skills: [
+      'Working knowledge of front end optimization and performance techniques',
+      'Makes design recommendations towards the development of new code or reuse of existing code',
+      'easy to maintain and to ensure they are highly modularized',
+      'Cooperating with the back-end developer in the process of building the RESTful API',
+      'Work with mobile app developers',
+      'Implement Reusable/Dynamic Components',
+      'Experience in creating self-contained, reusable and testable modules and components',
+      'Work with UI',
+      'Implemented Angular Router to enable navigation while permission is granted',
+      'Worked on GIT as a version control',
+      'software development with (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs)',
+      'and Other Angular Material/Cdk, Ionic, React, Firebase'
+    ]
   },
   {
     designation: 'Software  Engineer',
     year: 'Jan, 2019 - July 2019',
     company: 'Biorev Studios Pvt Ltd',
-    skills: ['Angular']
+    skills: [
+      'Developing and Administer the new Angular based website',
+      'clearly communicate problem/resolution process',
+      'Implement Reusable/Dynamic Components',
+      'software development with (Html, Css,SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs)',
+      'and Other Angular Material/Cdk',
+      'Work with UI',
+      'Worked on GIT as a version control',
+      'knowledge of JavaScript with object oriented programming',
+      'Renderer Canvas Using Angular',
+      'Experience in creating self-contained, reusable and testable modules and components',
+      'Experience with creating custom directives, pipes, decorators, and services'
+    ]
   },
   {
     designation: 'Software  Engineer',
     year: 'Sep, 2014 - Jan 2019',
     company: 'Object Freeze Pvt Ltd',
-    skills: ['Angular']
+    skills: [
+      'Developing and Administer the new Angular based website',
+      'Implement Reusable/Dynamic Components',
+      'Work with UI',
+      'Experience in creating self-contained, reusable and testable modules and components',
+      'Change Html Website to Angular component based web',
+      'Understanding of usability, accessibility and navigation',
+      'Coordinating the workflow between Developers',
+      'knowledge of JavaScript with object oriented programming',
+      'Technologies such as Html/Css/SASS/JavaScript/TypeScript/Angular/Node JS/Rxjs/Bootstrap/Angular Material/JSON/Accessibility/Git/REST APIs)'
+    ]
   }
 ]
 export const summary = ['I\'m a senior software engineer. I am having 7+ years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”  as  “Senior Software  Engineer”.',
@@ -30,8 +65,8 @@ export const summary = ['I\'m a senior software engineer. I am having 7+ years o
 ]
 
 export const knowledge = [
-  {name: 'Tools & Framework', items: ['Webstorm', 'Vs Code']},
-  {name: 'Interest', items: ['Music', 'Reading', 'Cricket', 'Movie']},
+  {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman']},
+  {name: 'Interest', items: ['Music', 'Reading', 'Cricket', 'Movie', 'Programming']},
   {name: 'Another Skills', items: ['Linux', 'Windows']}
 ]
 export const skills = [
@@ -49,10 +84,17 @@ export const skills = [
       {name: 'Firebase', progress: 50},
       {name: 'RxJS', progress: 50},
       {name: 'Angular Material', progress: 50},
+      {name: 'Angular Cdk', progress: 50},
+      {name: 'SASS', progress: 50},
+      {name: 'Firebase', progress: 50},
+      {name: 'Node', progress: 50},
       {name: 'Bootstrap 4', progress: 50},
       {name: 'RESTful API integration', progress: 60}
     ]
   }
+]
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'Sass', 'Angular', 'Typescript', 'rxjs', 'angular cli', 'npm', 'node js', 'Git',
+  'Angular Material', 'Angular Cdk', 'Bootstrap', 'Firebase', 'RESTful API integration'
 ]
 export const portfolio = [
   {
