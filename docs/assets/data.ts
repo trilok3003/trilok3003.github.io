@@ -54,6 +54,7 @@ export const experience = [
       'Change Html Website to Angular component based web',
       'Understanding of usability, accessibility and navigation',
       'Coordinating the workflow between Developers',
+      'Created reusable templates bases on ui standards',
       'knowledge of JavaScript with object oriented programming',
       'Technologies such as Html/Css/SASS/JavaScript/TypeScript/Angular/Node JS/Rxjs/Bootstrap/Angular Material/JSON/Accessibility/Git/REST APIs)'
     ]
@@ -93,8 +94,8 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'Sass', 'Angular', 'Typescript', 'rxjs', 'angular cli', 'npm', 'node js', 'Git',
-  'Angular Material', 'Angular Cdk', 'Bootstrap', 'Firebase', 'RESTful API integration'
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Typescript', 'rxjs', 'angular cli', 'npm', 'node js', 'Git',
+  'Angular Material', 'Angular Cdk', 'Bootstrap', 'Firebase', 'RESTful API integration', 'JSON'
 ]
 export const portfolio = [
   {
@@ -131,3 +132,24 @@ export const portfolio = [
     ]
   }
 ]
+
+
+// TECHNICAL SKILLS:
+//
+//   Web Technologies: HTML, CSS, Bootstrap, AJAX, jQuery, LESS, SASS, JSON.
+//
+//   JS Frameworks: AngularJS, Angular 2/4/5, ReactJs, Node.JS.
+//
+//   Programming Languages: JavaScript, TypeScript.
+//
+//   Version Control System: GIT, SVN.
+//
+//   Operating Systems: Windows, Mac OS, Linux, Unix.
+//
+//   Debugging Tools/Testing: Firebug, Karma, Jasmine, Protractor.
+//
+//   Databases: DB2, Oracle, MySQL and NoSQL like MongoDB.
+//
+//   IDE: Visual Studio Code, IntelliJ, Notepad++, WebStorm.
+//
+//   Others: PrimeNG, Ngx-Bootstrap, RXJS, NGRX, Webpack, Babel, Gulp.
