@@ -10,6 +10,11 @@ export const experience = [
     year: 'July, 2019 - Present',
     company: 'Gaiasys Technology Pvt Ltd',
     skills: [
+      'Used NPM for installing required node modules and other published Angular NPM modules',
+      'Angular 2+ is of a Component Driven Architecture',
+      'Worked Extensively with Angular CLI for creating components, Services, pipes, Directives.',
+      'Updated the application with new features of Angular.',
+      'Designed and developed the application using Angular 2 framework along with HTML5, CSS3, Type Script, Java Script, Bootstrap, Node.js, NPM.',
       'Working knowledge of front end optimization and performance techniques',
       'Makes design recommendations towards the development of new code or reuse of existing code',
       'easy to maintain and to ensure they are highly modularized',
@@ -47,6 +52,10 @@ export const experience = [
     year: 'Sep, 2014 - Jan 2019',
     company: 'Object Freeze Pvt Ltd',
     skills: [
+      'Angular 2+ for developing the SPAs',
+      'Experience in Using SASS',
+      'Implemented the Drag and Drop functionality using angular cdk',
+      'Designed the web pages by using HTML, CSS and deploy the script using with JavaScript.',
       'Developing and Administer the new Angular based website',
       'Implement Reusable/Dynamic Components',
       'Work with UI',
@@ -63,6 +72,10 @@ export const experience = [
 export const summary = ['I\'m a senior software engineer. I am having 7+ years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”  as  “Senior Software  Engineer”.',
   'I am so passionate about Angular , Ionic , React and Front end Development - I enjoy learning new things. I love doing multitasking work.',
   'and skilled, with the ability to think logically and creativity strong, as well as educational background in accordance with current expertise.',
+  'Experience in working with Angular 2+ modules, services, templates, directives, pipes, guards and dependency injection to create a SPA',
+  'Extensively used  HTML, CSS , java Script, TypeScript, Angular (2+), Ionic, React, Node.js',
+  'Experience with various IDE’s such as Visual Studio Code, Web Storm',
+  'Extensively used the repositories like GIT '
 ]
 
 export const knowledge = [
@@ -94,8 +107,8 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Typescript', 'rxjs', 'angular cli', 'npm', 'node js', 'Git',
-  'Angular Material', 'Angular Cdk', 'Bootstrap', 'Firebase', 'RESTful API integration', 'JSON'
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Typescript', 'rxjs', 'angular cli', 'npm', 'node js', 'Version Control System (GIT)',
+  'Angular Material', 'Angular Cdk', 'Bootstrap', 'Firebase', 'RESTful API integration', 'JSON', 'React js', 'Ionic', 'Operating Systems (Windows, Linux/Unix)'
 ]
 export const portfolio = [
   {
@@ -134,22 +147,85 @@ export const portfolio = [
 ]
 
 
-// TECHNICAL SKILLS:
+// TECHNICAL SKILLS: (done)
 //
-//   Web Technologies: HTML, CSS, Bootstrap, AJAX, jQuery, LESS, SASS, JSON.
+//   Web Technologies: HTML, CSS, Bootstrap, SASS, JSON.
 //
-//   JS Frameworks: AngularJS, Angular 2/4/5, ReactJs, Node.JS.
+//   JS Frameworks: Angular 2+, ReactJs, Ionic, Node.JS.
 //
 //   Programming Languages: JavaScript, TypeScript.
 //
-//   Version Control System: GIT, SVN.
+//   Version Control System: GIT.
 //
-//   Operating Systems: Windows, Mac OS, Linux, Unix.
+//   Operating Systems: Windows, Linux, Unix.
 //
 //   Debugging Tools/Testing: Firebug, Karma, Jasmine, Protractor.
 //
 //   Databases: DB2, Oracle, MySQL and NoSQL like MongoDB.
 //
-//   IDE: Visual Studio Code, IntelliJ, Notepad++, WebStorm.
+//   IDE: Visual Studio Code, WebStorm.
 //
 //   Others: PrimeNG, Ngx-Bootstrap, RXJS, NGRX, Webpack, Babel, Gulp.
+
+
+// Summary (done)
+
+// Experience with various IDE’s such as Visual Studio Code, Web Storm
+// Extensive experience working under Agile methodologies environment (scrum, Kanban)
+// Experience in working on MAC, Windows, and Linux - Ubuntu operating systems
+// Good experience in unit testing by using Karma and Mocha
+// Extensively used the repositories like GIT and SVN.
+// Extensively used  HTML5, CSS3 and java Script
+// Utilize Jasmine, Karma, Gulp, Grunt and NPM to build and test application
+// Used Jenkins/Maven for build Process to Generate Continuous Integration and Version Control is done by GIT.
+// Well experienced in writing test cases in Test Driven Development and Behavior Driven Development
+// Object-Oriented JavaScript
+// Expertise in React.JS framework and integrate them to Node.js server-side code
+// Experience in working with Angular 2/4 modules, services, templates, directives, services and dependency injection to create a SPA
+// Having 9 years of experience in developing Web Applications using HTML (4/5), CSS (2/3), JavaScript, TypeScript, Angular (2/4), Node.js
+
+// skils (done)
+
+// Web Technologies:: HTML4/ HTML5, CSS3, JavaScript, Bootstrap, Angular.js, Node.js, Express.js, React.js, JSON, Angular 2/4, TypeScript, Angular CLI
+
+// IDE s: Visual Studio Code, WebStorm
+
+// Debugging tools: Firebug, Chrome Developer Tools.
+
+// Operating systems: Linux - Ubuntu, Mac OS, Windows.
+
+// Servers: Apache Tomcat
+
+// Version Control: GIT.
+
+// Build Tools: Jenkins
+
+// Database: MongoDB.
+
+// // Experience Responsibilities: (done)
+
+// Used NPM for installing required node modules and other published Angular NPM modules.
+// Angular 2.0 is of a Component Driven Architecture.
+// Worked Extensively with Angular CLI for creating components, Services, pipes, Directives.
+// Updated the application with new features of Angular 4.
+// Worked on some new features of Angular 4 like new if else syntax, ng-templates, form validators.
+// Designed and developed the application using Angular 2 framework along with HTML5, CSS3, Type Script, Java Script, Bootstrap, Node.js, NPM, Mongo DB.
+// Enhanced legacy application by building new components in Angular 2 and typescript.
+// Developed single page applications using Angular 2, Typescript, web pack and grunt.
+// Involved in agile software methodologies using TEST DRIVEN DEVELOPMENT(TDD)
+// Used JIRA to keep track of bugs to reduce downtime, increase productivity, and Communication.
+
+// Angular.js/ React JS for developing the SPAs
+// Experience in Using SASS
+// As a backend developer, I was responsible for creating RESTFUL Web using Node.js & Express.js.
+// Developed client side drop down menus, search bars and drop down toggles using Twitter-Bootstrap.
+// Utilize Jasmine, Karma, Gulp and NPM to build and test applications.
+// Developed the Front end by using React Js and JavaScript.
+// Used Local Storage to store & retrieve insensitive user data during transition between the different pages.
+// Implemented the Drag and Drop functionality using angular cdk
+
+
+// Designed the web pages by using HTML, XHTML, CSS and deploy the script using with JavaScript.
+// Wrote external CSS file, which linked to the HTML file to increase the traffic of the web site.
+
+// Coded end to end (i.e. from GUI on Client side to Middleware to database and Connecting the back-end Systems)
