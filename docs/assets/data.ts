@@ -1,86 +1,106 @@
 export const educations = [
-  {name: 'MCA', year: '2011-2014', university: 'UPTU'},
-  {name: 'BSC', year: '2008-2011', university: 'Dr. Bhimrao Ambedkar University'},
-  {name: '12th', year: '2006-2008', university: 'Up Board'},
-  {name: '10th', year: '2006', university: 'Up Board'}
+  {name: 'Master of Computer Applications (MCA)', year: '2011-2014', university: 'Uttar Pradesh Technical University (UPTU)'},
+  // {name: 'BSC', year: '2008-2011', university: 'Dr. Bhimrao Ambedkar University'},
+  // {name: '12th', year: '2006-2008', university: 'Up Board'},
+  // {name: '10th', year: '2006', university: 'Up Board'}
 ]
 export const experience = [
   {
     designation: 'Senior Software  Engineer',
     year: 'July, 2019 - Present',
     company: 'Gaiasys Technology Pvt Ltd',
+    address: 'Noida',
     skills: [
-      'Used NPM for installing required node modules and other published Angular NPM modules',
-      'Angular 2+ is of a Component Driven Architecture',
-      'Worked Extensively with Angular CLI for creating components, Services, pipes, Directives.',
-      'Updated the application with new features of Angular.',
-      'Designed and developed the application using Angular 2 framework along with HTML5, CSS3, Type Script, Java Script, Bootstrap, Node.js, NPM.',
-      'Working knowledge of front end optimization and performance techniques',
-      'Makes design recommendations towards the development of new code or reuse of existing code',
-      'easy to maintain and to ensure they are highly modularized',
-      'Cooperating with the back-end developer in the process of building the RESTful API',
-      'Work with mobile app developers',
-      'Implement Reusable/Dynamic Components',
-      'Experience in creating self-contained, reusable and testable modules and components',
-      'Work with UI',
-      'Implemented Angular Router to enable navigation while permission is granted',
-      'Worked on GIT as a version control',
-      'software development with (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs)',
-      'and Other Angular Material/Cdk, Ionic, React, Firebase'
+      // 'Used NPM for installing required node modules and other published Angular NPM modules',
+      // 'Angular 2+ is of a Component Driven Architecture',
+      // 'Updated the application with new features of Angular.',
+      'Designed and developed the application using Angular 2+ framework along with HTML, CSS, Type Script, Java Script, Bootstrap, Node.js, NPM.',
+      // 'Working knowledge of front end optimization and performance techniques',
+      // 'Makes design recommendations towards the development of new code or reuse of existing code',
+      // 'easy to maintain and to ensure they are highly modularized',
+      // 'Cooperating with the back-end developer in the process of building the RESTful API',
+      // 'Work with mobile app developers',
+      'Worked on Ionic Mobile Project',
+      'Implement Reusable/Dynamic Components, modules, pipes, directives,services,Router, guard (auth, permission)',
+      // 'Worked Extensively with Angular CLI for creating (Modules, components, Services, pipes, Directives).',
+      // 'Experience in creating self-contained, reusable and testable modules and components',
+      // 'Work with UI',
+      // 'Knowledge  front-end languages (JavaScript, HTML, CSS)',
+      // 'Building and implementing  user interfaces using  the Angular framework',
+      'Identify issues with front end code and rectify them to remove bugs',
+      // 'Implemented Angular Router to enable navigation while permission is granted',
+      // 'Worked on GIT as a version control',
+      'Enhancement like Animation and Smooth Scroll Effect',
+      'knowledge of GIT, PWA (Fast loading and works offline,  push notification), Service workers',
+      // 'Accessibility',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, React, Firebase)',
     ]
   },
   {
     designation: 'Software  Engineer',
     year: 'Jan, 2019 - July 2019',
     company: 'Biorev Studios Pvt Ltd',
+    address: 'Delhi',
     skills: [
-      'Developing and Administer the new Angular based website',
-      'clearly communicate problem/resolution process',
-      'Implement Reusable/Dynamic Components',
-      'software development with (Html, Css,SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs)',
-      'and Other Angular Material/Cdk',
-      'Work with UI',
+      // 'Developing and Administer the new Angular based SPA',
+      'Developing the  Angular based SPA',
+      // 'clearly communicate problem/resolution process',
       'Worked on GIT as a version control',
-      'knowledge of JavaScript with object oriented programming',
-      'Renderer Canvas Using Angular',
-      'Experience in creating self-contained, reusable and testable modules and components',
-      'Experience with creating custom directives, pipes, decorators, and services'
+      // 'knowledge of JavaScript/TypeScript with object oriented programming',
+      'Worked On Custom Reusable/Dynamic Components, modules, pipes, directives,services,Router, guard (auth, permission)',
+      'Involved In Renderer (Canvas, Svg) Using Angular',
+      // 'Experience in creating self-contained, reusable and testable modules and components',
+      // 'Experience with creating custom shared module,  components, directives, pipes, decorators, and services',
+      'knowledge of REST Api implements, dynamic web applications, PWA, Service workers',
+      'Worked on Angular Google Maps (AGM)',
+      'Drag/Drop using Angular cdk',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Ionic, React, Firebase)',
     ]
   },
   {
     designation: 'Software  Engineer',
     year: 'Sep, 2014 - Jan 2019',
     company: 'Object Freeze Pvt Ltd',
+    address: 'Noida',
     skills: [
-      'Angular 2+ for developing the SPAs',
-      'Experience in Using SASS',
+      // 'Worked as a Front-end Developer in Angular 2+',
+      'Worked on various Single Page Applications using Angular',
+      'Involved in designing UI and web applications utilizing JavaScript, Html, CSS, Json, integrating Restfull apis',
+      // 'Angular 2+ for developing the SPAs, Change Html Website to Angular component based web',
+      // 'Experience in Using SASS',
       'Implemented the Drag and Drop functionality using angular cdk',
-      'Designed the web pages by using HTML, CSS and deploy the script using with JavaScript.',
-      'Developing and Administer the new Angular based website',
-      'Implement Reusable/Dynamic Components',
-      'Work with UI',
-      'Experience in creating self-contained, reusable and testable modules and components',
-      'Change Html Website to Angular component based web',
-      'Understanding of usability, accessibility and navigation',
-      'Coordinating the workflow between Developers',
-      'Created reusable templates bases on ui standards',
-      'knowledge of JavaScript with object oriented programming',
-      'Technologies such as Html/Css/SASS/JavaScript/TypeScript/Angular/Node JS/Rxjs/Bootstrap/Angular Material/JSON/Accessibility/Git/REST APIs)'
+      // 'Designed the web pages by using HTML, CSS and deploy the script using with JavaScript.',
+      // 'Developing and Administer the new Angular based website/SPAs',
+      'Implement Custom/Reusable/Dynamic Components, Services, modules, pipes, directives, guard, interceptors',
+      'Working with Restful APIs implements, sass, Angular Cli/Material/Cdk',
+      // 'Experience in creating self-contained, reusable and testable modules and components',
+      // 'Drag/Drop using Angular cdk',
+      // 'Working with Angular Material/Cdk',
+      // 'Understanding of usability, accessibility and navigation',
+      // 'Coordinating the workflow between Developers',
+      // 'Created reusable templates bases on ui standards',
+      // 'knowledge of JavaScript/Typescript with object oriented programming',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, React, Firebase)'
     ]
   }
 ]
-export const summary = ['I\'m a senior software engineer. I am having 7+ years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”  as  “Senior Software  Engineer”.',
-  'I am so passionate about Angular , Ionic , React and Front end Development - I enjoy learning new things. I love doing multitasking work.',
-  'and skilled, with the ability to think logically and creativity strong, as well as educational background in accordance with current expertise.',
+export const about = ['Senior Software Engineer with 7+ years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”',
+  'Expertise in Angular 2+, Ionic , React , Javascript, Node JS and Front end Development',
   'Experience in working with Angular 2+ modules, services, templates, directives, pipes, guards and dependency injection to create a SPA',
-  'Extensively used  HTML, CSS , java Script, TypeScript, Angular (2+), Ionic, React, Node.js',
+  // 'Extensively used  HTML, CSS , java Script, TypeScript, Angular (2+), Ionic, React, Node.js',
+  'Worked in  Angular cli, npm',
+  'Worked in  version control systems - GIT',
   'Experience with various IDE’s such as Visual Studio Code, Web Storm',
-  'Extensively used the repositories like GIT '
+  // 'I love doing multitasking work and skilled, with the ability to think logically and creativity strong, as well as educational background in accordance with current expertise.',
+  'I love doing multitasking work and skilled, with the ability to think logically and creativity strong',
+  // 'I am so passionate about',
+  'I enjoy learning new things , Interested in new technologies and I am so passionate about development'
 ]
+export const summary = ['Senior Software Engineer with experience in various technologies like Angular, React, Ionic, Typescript, Nodejs, javascript, rxjs']
 
 export const knowledge = [
   {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman']},
-  {name: 'Interest', items: ['Music', 'Reading', 'Cricket', 'Movie', 'Programming']},
+  {name: 'Interest', items: ['Programming', 'Cricket',  'Movie',  'Music', 'Reading']},
   {name: 'Another Skills', items: ['Linux', 'Windows']}
 ]
 export const skills = [
@@ -107,9 +127,7 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Typescript', 'rxjs', 'angular cli', 'npm', 'node js', 'Version Control System (GIT)',
-  'Angular Material', 'Angular Cdk', 'Bootstrap', 'Firebase', 'RESTful API integration', 'JSON', 'React js', 'Ionic', 'Operating Systems (Windows, Linux/Unix)'
-]
+export const skillItems  = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Typescript', 'rxjs', 'angular Cli/Material/Cdk', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'React js', 'Ionic', 'OS (Windows, Ubuntu), Webstorm, \n Vs Code']
 export const portfolio = [
   {
     company: 'Gaiasys', items: [
@@ -144,8 +162,27 @@ export const portfolio = [
       // {name: 'shoes/interior/school/srk college/inventory/training', description: '', techs : ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
     ]
   }
+];
+export const projects = [
+  {name: 'Earther Web Product', description: ['Construction Product'], url: 'https://earther.gaiasys.in/', techs: ['Angular' , 'Angular Material' , 'Nodejs' , 'TypeScript']},
+  {name: 'Earther  Mobile App', description: [], techs: ['Angular', 'Ionic', 'Nodejs', 'TypeScript']},
+  {name: 'Daybook', description: [], url: 'https://daybook.gaiasys.org/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
+  {name: 'NBFC', description: [], techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
+  {name: 'Krc Infra Projects', description: [], url: 'http://www.krcinfraprojects.com/', techs: ['Html', 'Css', 'Javascript', 'Wordpress']},
+  {name: 'XSeries360', description: [], url: 'https://xseries360.com/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
+  {name: 'XPlat360', description: [], url: 'https://xplat360.com/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
+  {name: 'XHome360', description: [], url: 'https://xhome360.com/', techs: ['Angular', 'Ionic', 'Nodejs', 'TypeScript']},
+  {name: 'XFloor360', description: [], url:'https://xfloor360.com/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
+  {name: 'XDesign360', description: [], url: 'https://xdesign360.com/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
 ]
-
+export const socialInfo = [
+  // fa fa-facebook-f, fa fa-instagram
+  {name: 'Twitter:', url : 'https://twitter.com/triloks03290120', view: '', icon: 'fa fa-twitter'},
+  {name: 'Linkedin:', url : 'https://www.linkedin.com/in/trilok-singh1905', view: '',  icon: 'fa fa-linkedin'},
+  {name: 'Github:', url : 'https://github.com/trilok3003', view: '', icon: 'fa fa-github'},
+  {name: 'Stackoverflow:', url : 'https://stackoverflow.com/users/10918257/trilok-singh', view: '', icon: 'fa fa-stack-overflow'},
+  {name: 'Gmail:', url : 'mailto:triloksingh1905@gmail.com', view: 'triloksingh1905@gmail.com', icon: 'fa fa-envelope'},
+]
 
 // TECHNICAL SKILLS: (done)
 //
@@ -166,6 +203,7 @@ export const portfolio = [
 //   IDE: Visual Studio Code, WebStorm.
 //
 //   Others: PrimeNG, Ngx-Bootstrap, RXJS, NGRX, Webpack, Babel, Gulp.
+// Methodologies : scrum, agile
 
 
 // Summary (done)
