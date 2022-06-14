@@ -1,6 +1,10 @@
 export const educations = [
-  {name: 'Master of Computer Applications (MCA)', year: '2011-2014', university: 'Uttar Pradesh Technical University (UPTU)'},
-  // {name: 'BSC', year: '2008-2011', university: 'Dr. Bhimrao Ambedkar University'},
+  {
+    name: 'Master of Computer Applications (MCA)',
+    year: '2011-2014',
+    university: 'Uttar Pradesh Technical University (UPTU)'
+  },
+  {name: 'BSC', year: '2008-2011', university: 'Dr. Bhim rao Ambedkar University Agra'},
   // {name: '12th', year: '2006-2008', university: 'Up Board'},
   // {name: '10th', year: '2006', university: 'Up Board'}
 ]
@@ -9,7 +13,7 @@ export const experience = [
     designation: 'Senior Software  Engineer',
     year: 'July, 2019 - Present',
     company: 'Gaiasys Technology Pvt Ltd',
-    address: 'Noida',
+    address: 'Faridabad',
     skills: [
       // 'Used NPM for installing required node modules and other published Angular NPM modules',
       // 'Angular 2+ is of a Component Driven Architecture',
@@ -20,18 +24,24 @@ export const experience = [
       // 'easy to maintain and to ensure they are highly modularized',
       // 'Cooperating with the back-end developer in the process of building the RESTful API',
       // 'Work with mobile app developers',
-      'Worked on Ionic Mobile Project',
-      'Implement Reusable/Dynamic Components, modules, pipes, directives,services,Router, guard (auth, permission)',
+      'Worked on Ionic (Angular) Mobile Project',
+      'Implement Reusable/Dynamic Components, modules, pipes, directives,services,Router, guard (auth, permission etc)',
       // 'Worked Extensively with Angular CLI for creating (Modules, components, Services, pipes, Directives).',
       // 'Experience in creating self-contained, reusable and testable modules and components',
       // 'Work with UI',
       // 'Knowledge  front-end languages (JavaScript, HTML, CSS)',
       // 'Building and implementing  user interfaces using  the Angular framework',
-      'Identify issues with front end code and rectify them to remove bugs',
+      // 'Identify issues with front end code and rectify them to remove bugs',
       // 'Implemented Angular Router to enable navigation while permission is granted',
       // 'Worked on GIT as a version control',
-      'Enhancement like Animation and Smooth Scroll Effect',
+      'Worked On Auth Guard, Permission Guard, Interceptor, Base Api Service, Date Picker Customization',
+      'Interaction with Backend and Testing Team to rectify problems/bugs etc',
+      // 'Enhancement like Animation and Smooth Scroll Effect',
       'knowledge of GIT, PWA (Fast loading and works offline,  push notification), Service workers',
+      'Worked On Import/export CSV/excel',
+      'Worked On export PDF using Pdfmake and customized (dynamic)',
+      'Drag and Drop Functionalities, Auto Complete Search, Show More Api Data / Pagination Api Data , Animation, Smooth Scroll Effect, scss model',
+      'Build Project Develop/Staging/Production Mode and Deploy On Aws',
       // 'Accessibility',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, React, Firebase)',
     ]
@@ -54,6 +64,7 @@ export const experience = [
       'knowledge of REST Api implements, dynamic web applications, PWA, Service workers',
       'Worked on Angular Google Maps (AGM)',
       'Drag/Drop using Angular cdk',
+      'Worked On x-series 360 Projects (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Ionic, React, Firebase)',
     ]
   },
@@ -100,7 +111,7 @@ export const summary = ['Senior Software Engineer with experience in various tec
 
 export const knowledge = [
   {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman']},
-  {name: 'Interest', items: ['Programming', 'Cricket',  'Movie',  'Music', 'Reading']},
+  {name: 'Interest', items: ['Programming', 'Cricket', 'Movie', 'Music', 'Reading']},
   {name: 'Another Skills', items: ['Linux', 'Windows']}
 ]
 export const skills = [
@@ -127,7 +138,7 @@ export const skills = [
     ]
   }
 ]
-export const skillItems  = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Typescript', 'rxjs', 'angular Cli/Material/Cdk', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'React js', 'Ionic', 'OS (Windows, Ubuntu), Webstorm, \n Vs Code']
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Typescript', 'rxjs', 'angular Cli/Material/Cdk', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'React js', 'Ionic', 'OS (Windows, Ubuntu), Webstorm, \n Vs Code']
 export const portfolio = [
   {
     company: 'Gaiasys', items: [
@@ -164,24 +175,105 @@ export const portfolio = [
   }
 ];
 export const projects = [
-  {name: 'Earther Web Product', description: ['Construction Product'], url: 'https://earther.gaiasys.in/', techs: ['Angular' , 'Angular Material' , 'Nodejs' , 'TypeScript']},
+  {
+    name: 'Earther Web Product',
+    description: ['Construction Product'],
+    url: 'https://earther.gaiasys.in/',
+    techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
+  },
   {name: 'Earther  Mobile App', description: [], techs: ['Angular', 'Ionic', 'Nodejs', 'TypeScript']},
-  {name: 'Daybook', description: [], url: 'https://daybook.gaiasys.org/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
+  {
+    name: 'Daybook',
+    description: [],
+    url: 'https://daybook.gaiasys.org/',
+    techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
+  },
   {name: 'NBFC', description: [], techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
-  {name: 'Krc Infra Projects', description: [], url: 'http://www.krcinfraprojects.com/', techs: ['Html', 'Css', 'Javascript', 'Wordpress']},
-  {name: 'XSeries360', description: [], url: 'https://xseries360.com/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
-  {name: 'XPlat360', description: [], url: 'https://xplat360.com/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
-  {name: 'XHome360', description: [], url: 'https://xhome360.com/', techs: ['Angular', 'Ionic', 'Nodejs', 'TypeScript']},
-  {name: 'XFloor360', description: [], url:'https://xfloor360.com/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
-  {name: 'XDesign360', description: [], url: 'https://xdesign360.com/', techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
+  {
+    name: 'Krc Infra Projects',
+    description: [],
+    url: 'http://www.krcinfraprojects.com/',
+    techs: ['Html', 'Css', 'Javascript', 'Wordpress']
+  },
+  {
+    name: 'XSeries360',
+    description: [],
+    url: 'https://xseries360.com/',
+    techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
+  },
+  {
+    name: 'XPlat360',
+    description: [],
+    url: 'https://xplat360.com/',
+    techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
+  },
+  {
+    name: 'XHome360',
+    description: [],
+    url: 'https://xhome360.com/',
+    techs: ['Angular', 'Ionic', 'Nodejs', 'TypeScript']
+  },
+  {
+    name: 'XFloor360',
+    description: [],
+    url: 'https://xfloor360.com/',
+    techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
+  },
+  {
+    name: 'XDesign360',
+    description: [],
+    url: 'https://xdesign360.com/',
+    techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
+  },
+]
+export const othersWork = [
+  {
+    name: 'angular date picker library',
+    description: ['Date Picker Library In Angular on npm packages'],
+    url: 'https://www.npmjs.com/package/tri-angular-date-picker-library',
+    techs: ['Angular', 'Nodejs', 'TypeScript']
+  },
+  {
+    name: 'angular pipe library',
+    description: ['angular pipe library on npm packages'],
+    url: 'https://www.npmjs.com/package/tri-angular-pipe-library',
+    techs: ['Angular', 'Nodejs', 'TypeScript']
+  },
+  {
+    name: 'angular bootstrap custom',
+    description: ['angular bootstrap custom on npm packages'],
+    url: 'https://www.npmjs.com/package/angular-bootstrap-custom',
+    techs: ['Angular', 'Nodejs', 'TypeScript', 'Bootstrap']
+  },
+  {
+    name: 'angular-customize',
+    description: ['angular-customize on npm packages'],
+    url: 'https://www.npmjs.com/package/angular-customize',
+    techs: ['Angular', 'Nodejs', 'TypeScript']
+  },
+  {
+    name: 'angular library',
+    description: ['angular library on npm packages'],
+    url: 'https://www.npmjs.com/package/tri-angular-library',
+    techs: ['Angular', 'Nodejs', 'TypeScript']
+  },
 ]
 export const socialInfo = [
   // fa fa-facebook-f, fa fa-instagram
-  {name: 'Twitter:', url : 'https://twitter.com/triloks03290120', view: '', icon: 'fa fa-twitter'},
-  {name: 'Linkedin:', url : 'https://www.linkedin.com/in/trilok-singh1905', view: '',  icon: 'fa fa-linkedin'},
-  {name: 'Github:', url : 'https://github.com/trilok3003', view: '', icon: 'fa fa-github'},
-  {name: 'Stackoverflow:', url : 'https://stackoverflow.com/users/10918257/trilok-singh', view: '', icon: 'fa fa-stack-overflow'},
-  {name: 'Gmail:', url : 'mailto:triloksingh1905@gmail.com', view: 'triloksingh1905@gmail.com', icon: 'fa fa-envelope'},
+  // {name: 'Twitter:', url : 'https://twitter.com/triloks03290120', view: '', icon: 'fa fa-twitter'},
+  {name: 'Linkedin:', url: 'https://www.linkedin.com/in/trilok-singh1905', view: '', icon: 'fa fa-linkedin'},
+  {name: 'Github:', url: 'https://github.com/trilok3003', view: '', icon: 'fa fa-github'},
+  {
+    name: 'Stackoverflow:',
+    url: 'https://stackoverflow.com/users/10918257/trilok-singh',
+    view: '',
+    icon: 'fa fa-stack-overflow'
+  },
+  {name: 'npmjs:', url: 'https://www.npmjs.com/~trilok3003', view: '', icon: 'fa fa-angle-double-right'},
+  {name: 'Gmail:', url: 'mailto:triloksingh1905@gmail.com', view: 'triloksingh1905@gmail.com', icon: 'fa fa-envelope'},
+]
+export const certificates = ['https://www.freecodecamp.org/certification/trilok3003/responsive-web-design',
+'https://www.freecodecamp.org/certification/trilok3003/front-end-development-libraries'
 ]
 
 // TECHNICAL SKILLS: (done)
