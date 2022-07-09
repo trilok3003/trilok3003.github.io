@@ -1,3 +1,6 @@
+export const profileTitle = "Senior Software Engineer  | Angular  | Ionic  | React"
+export const profileImage = "assets/profile.jpeg";
+// export const profileImage = "assets/main.jpg";
 export const educations = [
   {
     name: 'Master of Computer Applications (MCA)',
@@ -24,7 +27,7 @@ export const experience = [
       // 'easy to maintain and to ensure they are highly modularized',
       // 'Cooperating with the back-end developer in the process of building the RESTful API',
       // 'Work with mobile app developers',
-      'Worked on Ionic (Angular) Mobile Project',
+      'Worked on Ionic (Angular) Mobile and React Based  Project',
       'Implement Reusable/Dynamic Components, modules, pipes, directives,services,Router, guard (auth, permission etc)',
       // 'Worked Extensively with Angular CLI for creating (Modules, components, Services, pipes, Directives).',
       // 'Experience in creating self-contained, reusable and testable modules and components',
@@ -38,10 +41,12 @@ export const experience = [
       'Interaction with Backend and Testing Team to rectify problems/bugs etc',
       // 'Enhancement like Animation and Smooth Scroll Effect',
       'knowledge of GIT, PWA (Fast loading and works offline,  push notification), Service workers',
-      'Worked On Import/export CSV/excel',
-      'Worked On export PDF using Pdfmake and customized (dynamic)',
+      'Worked On Import/export CSV/excel, Worked On export PDF using Pdfmake and customized (dynamic)',
       'Drag and Drop Functionalities, Auto Complete Search, Show More Api Data / Pagination Api Data , Animation, Smooth Scroll Effect, scss model',
       'Build Project Develop/Staging/Production Mode and Deploy On Aws',
+      'State Menagement Using @Ngrx, Documentation using Compodoc',
+      'Unit Testing with Jasmine Framework and Karma Test Runner',
+      'Worked On Projects (Earther Web , Earther Mobile Ionic, Daybook, NBFC, Krc Infra Projects)',
       // 'Accessibility',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, React, Firebase)',
     ]
@@ -52,18 +57,11 @@ export const experience = [
     company: 'Biorev Studios Pvt Ltd',
     address: 'Delhi',
     skills: [
-      // 'Developing and Administer the new Angular based SPA',
-      'Developing the  Angular based SPA',
-      // 'clearly communicate problem/resolution process',
-      'Worked on GIT as a version control',
-      // 'knowledge of JavaScript/TypeScript with object oriented programming',
-      'Worked On Custom Reusable/Dynamic Components, modules, pipes, directives,services,Router, guard (auth, permission)',
-      'Involved In Renderer (Canvas, Svg) Using Angular',
-      // 'Experience in creating self-contained, reusable and testable modules and components',
-      // 'Experience with creating custom shared module,  components, directives, pipes, decorators, and services',
-      'knowledge of REST Api implements, dynamic web applications, PWA, Service workers',
-      'Worked on Angular Google Maps (AGM)',
-      'Drag/Drop using Angular cdk',
+      'Developing the  Angular based SPA  and maintained frontend code , design new features and enhancements',
+      'Creating Custom modules/Components/Directives/Pipes, Routing, Reactive Forms, Modules, Lazy Loading, Services, Rxjs, Guard, Interface Model',
+      'Worked on GIT as a version control and Involved In Renderer (Canvas, Svg) Using Angular',
+      'knowledge of REST Api implements, Http Client, Interceptors, dynamic web applications, PWA, Service workers',
+      'Worked on Angular Google Maps (AGM), Angular Material and Drag/Drop using Angular cdk',
       'Worked On x-series 360 Projects (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Ionic, React, Firebase)',
     ]
@@ -74,33 +72,25 @@ export const experience = [
     company: 'Object Freeze Pvt Ltd',
     address: 'Noida',
     skills: [
-      // 'Worked as a Front-end Developer in Angular 2+',
-      'Worked on various Single Page Applications using Angular',
-      'Involved in designing UI and web applications utilizing JavaScript, Html, CSS, Json, integrating Restfull apis',
-      // 'Angular 2+ for developing the SPAs, Change Html Website to Angular component based web',
-      // 'Experience in Using SASS',
+      'Worked on various Single Page Applications using Angular and Involved in designing UI and web applications utilizing JavaScript, Html, CSS, Json, integrating Restfull apis',
       'Implemented the Drag and Drop functionality using angular cdk',
-      // 'Designed the web pages by using HTML, CSS and deploy the script using with JavaScript.',
-      // 'Developing and Administer the new Angular based website/SPAs',
       'Implement Custom/Reusable/Dynamic Components, Services, modules, pipes, directives, guard, interceptors',
       'Working with Restful APIs implements, sass, Angular Cli/Material/Cdk',
-      // 'Experience in creating self-contained, reusable and testable modules and components',
-      // 'Drag/Drop using Angular cdk',
-      // 'Working with Angular Material/Cdk',
-      // 'Understanding of usability, accessibility and navigation',
-      // 'Coordinating the workflow between Developers',
-      // 'Created reusable templates bases on ui standards',
-      // 'knowledge of JavaScript/Typescript with object oriented programming',
+      'Worked On Projects (JMD Hospital , Hotel Anjuman, Hotel Kd, Handy craft, New Balaji, Crustncakes, Pandit Ji Nimantran, Vivah Creation, Deals Ka Baap, Object Freeze, Cakes Out, SRK Inventory/School Management)',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, React, Firebase)'
     ]
   }
 ]
 export const about = ['Senior Software Engineer with 7+ years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”',
-  'Expertise in Angular 2+, Ionic , React , Javascript, Node JS and Front end Development',
-  'Experience in working with Angular 2+ modules, services, templates, directives, pipes, guards and dependency injection to create a SPA',
+  'Expertise in Angular 2+, Ionic , React , Typescript, Javascript, Node JS and Front end Development',
+  'Creating Custom modules/Components/Directives/Pipes, Routing, Reactive Forms, Modules, Lazy Loading, Services, Rxjs, Guard, Interface Model',
+  // 'Experience in working with Angular 2+ modules, services, templates, directives, pipes, guards and dependency injection to create a SPA',
   // 'Extensively used  HTML, CSS , java Script, TypeScript, Angular (2+), Ionic, React, Node.js',
   'Worked in  Angular cli, npm',
   'Worked in  version control systems - GIT',
+  'State Menagement Using @Ngrx, Documentation using Compodoc',
+  'Unit Testing with Jasmine Framework and Karma Test Runner',
+  'Build Project Develop/Staging/Production Mode and Deploy On Aws',
   'Experience with various IDE’s such as Visual Studio Code, Web Storm',
   // 'I love doing multitasking work and skilled, with the ability to think logically and creativity strong, as well as educational background in accordance with current expertise.',
   'I love doing multitasking work and skilled, with the ability to think logically and creativity strong',
@@ -138,7 +128,7 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Typescript', 'rxjs', 'angular Cli/Material/Cdk', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'React js', 'Ionic', 'OS (Windows, Ubuntu), Webstorm, \n Vs Code']
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'React js', 'Ionic', 'Typescript', 'rxjs', 'angular Cli/Material/Cdk', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'OS (Windows, Ubuntu), Webstorm, \n Vs Code', 'Ngrx', 'Jasmine Framework', 'Karma']
 export const portfolio = [
   {
     company: 'Gaiasys', items: [
@@ -274,6 +264,17 @@ export const socialInfo = [
 ]
 export const certificates = ['https://www.freecodecamp.org/certification/trilok3003/responsive-web-design',
 'https://www.freecodecamp.org/certification/trilok3003/front-end-development-libraries'
+]
+export const certificateList = [
+  {name: 'Angular (Basic)', issuedBy: 'hackerrank', link: 'https://www.hackerrank.com/certificates/6b98e38b5a12', issuedId: '6b98e38b5a12'},
+  {name: 'React (Basic)', issuedBy: 'hackerrank', link: 'https://www.hackerrank.com/certificates/6bf25e89d61f', issuedId: '6bf25e89d61f'},
+  {name: 'Angular (2+)', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68326', issuedId: '68326'},
+  {name: 'AngularJS (1.x)', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68806', issuedId: '68806'},
+  {name: 'HTML/CSS', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68465', issuedId: '68465'},
+  {name: 'Javascript', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68448', issuedId: '68448'},
+  {name: 'React.js', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68455', issuedId: '68455'},
+  {name: 'Front End Development Libraries', issuedBy: 'freecodecamp', link: 'https://www.freecodecamp.org/certification/trilok3003/front-end-development-libraries', issuedId: ''},
+  {name: 'Responsive Web Design', issuedBy: 'freecodecamp', link: 'https://www.freecodecamp.org/certification/trilok3003/responsive-web-design', issuedId: ''},
 ]
 
 // TECHNICAL SKILLS: (done)
