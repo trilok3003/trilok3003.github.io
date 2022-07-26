@@ -1,6 +1,6 @@
 export const profileTitle = "Senior Software Engineer  | Angular  | Ionic  | React"
-export const profileImage = "assets/profile.jpeg";
-// export const profileImage = "assets/main.jpg";
+// export const profileImage = "assets/profile.jpeg";
+export const profileImage = "assets/main.jpg";
 export const educations = [
   {
     name: 'Master of Computer Applications (MCA)',
@@ -97,7 +97,7 @@ export const about = ['Senior Software Engineer with 7+ years of experience.  Cu
   // 'I am so passionate about',
   'I enjoy learning new things , Interested in new technologies and I am so passionate about development'
 ]
-export const summary = ['Senior Software Engineer with experience in various technologies like Angular, React, Ionic, Typescript, Nodejs, javascript, rxjs']
+export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular, React, Ionic, Typescript, Nodejs, javascript, rxjs, Html, css']
 
 export const knowledge = [
   {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman']},
@@ -128,7 +128,7 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'React js', 'Ionic', 'Typescript', 'rxjs', 'angular Cli/Material/Cdk', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'OS (Windows, Ubuntu), Webstorm, \n Vs Code', 'Ngrx', 'Jasmine Framework', 'Karma']
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'React js', 'Ionic', 'Typescript', 'rxjs', 'Angular CLI', 'Angular Material & CDK', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'OS (Windows, Ubuntu)', 'Webstorm, \n VS Code', 'Ngrx', 'Jasmine Framework', 'Karma']
 export const portfolio = [
   {
     company: 'Gaiasys', items: [
