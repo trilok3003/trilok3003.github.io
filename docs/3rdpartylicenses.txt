@@ -84,6 +84,8 @@ MIT
 
 @trilok3003/angular-pipes
 
+@trilok3003/angular-ui
+
 pdfmake
 MIT
 The MIT License (MIT)

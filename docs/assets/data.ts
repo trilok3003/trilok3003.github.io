@@ -1,4 +1,4 @@
-export const profileTitle = "Senior Software Engineer  | Angular  | Ionic  | React"
+export const profileTitle = "Senior Software Engineer  | Angular  | Ionic"
 // export const profileImage = "assets/profile.jpeg";
 export const profileImage = "assets/main.jpg";
 export const educations = [
@@ -27,7 +27,7 @@ export const experience = [
       // 'easy to maintain and to ensure they are highly modularized',
       // 'Cooperating with the back-end developer in the process of building the RESTful API',
       // 'Work with mobile app developers',
-      'Worked on Ionic (Angular) Mobile and React Based  Project',
+      'Worked on Ionic (Angular) Mobile',
       'Implement Reusable/Dynamic Components, modules, pipes, directives,services,Router, guard (auth, permission etc)',
       // 'Worked Extensively with Angular CLI for creating (Modules, components, Services, pipes, Directives).',
       // 'Experience in creating self-contained, reusable and testable modules and components',
@@ -40,7 +40,7 @@ export const experience = [
       'Worked On Auth Guard, Permission Guard, Interceptor, Base Api Service, Date Picker Customization',
       'Interaction with Backend and Testing Team to rectify problems/bugs etc',
       // 'Enhancement like Animation and Smooth Scroll Effect',
-      'knowledge of GIT, Import/Export CSV, Export PDF', 
+      'knowledge of GIT, Import/Export CSV, Export PDF',
       'PWA (Fast loading and works offline,  push notification), Service workers',
       'Worked On Import/export CSV/excel, Worked On export PDF using Pdfmake and customized (dynamic)',
       'Drag and Drop Functionalities, Auto Complete Search, Show More Api Data / Pagination Api Data , Animation, Smooth Scroll Effect, scss model',
@@ -50,7 +50,7 @@ export const experience = [
       'Worked On CI/CD Pipeline',
       'Worked On Projects: (Earther Web , Earther Mobile Ionic, Daybook, NBFC, Krc Infra Projects, Gaiasys Website, PWA based Projects)',
       // 'Accessibility',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, React, Firebase, AWS, CI/CD, PWA)',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
     ]
   },
   {
@@ -65,7 +65,7 @@ export const experience = [
       'knowledge of REST Api implements, Http Client, Interceptors, dynamic web applications, PWA, Service workers',
       'Worked on Angular Google Maps (AGM), Angular Material and Drag/Drop using Angular cdk',
       'Worked On Projects : x-series 360  (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Ionic, React, Firebase)',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Ionic, Firebase)',
     ]
   },
   {
@@ -79,12 +79,12 @@ export const experience = [
       'Implement Custom/Reusable/Dynamic Components, Services, modules, pipes, directives, guard, interceptors',
       'Working with Restful APIs implements, sass, Angular Cli/Material/Cdk',
       'Worked On Projects: (JMD Hospital , Hotel Anjuman, Hotel Kd, Handy craft, New Balaji, Crustncakes, Pandit Ji Nimantran, Vivah Creation, Deals Ka Baap, Object Freeze, Cakes Out, SRK Inventory/School Management)',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, React, Firebase)'
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, Firebase)'
     ]
   }
 ]
 export const about = ['Senior Software Engineer with 7+ years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”',
-  'Expertise in Angular 2+, Ionic , React , Typescript, Javascript, Front end Development, Web Development, Mobile Development, PWA Development',
+  'Expertise in Angular 2+, Ionic, Typescript, Javascript, Front end Development, Web Development, Mobile Development, PWA Development',
   'Creating Custom modules/Components/Directives/Pipes, Routing, Reactive Forms, Modules, Lazy Loading, Services, Rxjs, Guard, Interface Model',
   'State Menagement Using @Ngrx, Interceptors',
   'CI/CD Pipeline (github pages deploy, Gitlab pages deploy, AWS S3 Deploy)',
@@ -104,7 +104,7 @@ export const about = ['Senior Software Engineer with 7+ years of experience.  Cu
   // 'I am so passionate about',
   'I enjoy learning new things , Interested in new technologies and I am so passionate about development'
 ]
-export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular, React, Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx', 'Led a team of 4 people']
+export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular, Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx', 'Led a team of 4 people']
 
 export const knowledge = [
   {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman']},
@@ -135,7 +135,7 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'React js', 'Ionic', 'Typescript', 'rxjs', 'Angular CLI', 'Angular Material & CDK', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'OS (Windows, Ubuntu)', 'Webstorm, \n VS Code', 'Ngrx', 'Jasmine Framework', 'Karma', 'AWS', 'CI/CD Pipeline']
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Ionic', 'Typescript', 'rxjs', 'Angular CLI', 'Angular Material & CDK', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'OS (Windows, Ubuntu)', 'Webstorm, \n VS Code', 'Ngrx', 'Jasmine Framework', 'Karma', 'AWS', 'CI/CD Pipeline']
 export const portfolio = [
   {
     company: 'Gaiasys', items: [
