@@ -50,7 +50,7 @@ export const experience = [
       'Worked On CI/CD Pipeline',
       'Worked On Projects: (Earther Web , Earther Mobile Ionic, Daybook, NBFC, Krc Infra Projects, Gaiasys Website, PWA based Projects)',
       // 'Accessibility',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (7,8,9,10,11,12), Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
     ]
   },
   {
@@ -65,12 +65,12 @@ export const experience = [
       'knowledge of REST Api implements, Http Client, Interceptors, dynamic web applications, PWA, Service workers',
       'Worked on Angular Google Maps (AGM), Angular Material and Drag/Drop using Angular cdk',
       'Worked On Projects : x-series 360  (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Ionic, Firebase)',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (6), Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Ionic, Firebase)',
     ]
   },
   {
     designation: 'Software  Engineer',
-    year: 'Sep, 2014 - Jan 2019',
+    year: 'Sep, 2015 - Jan 2019',
     company: 'Object Freeze Pvt Ltd',
     address: 'Noida',
     skills: [
@@ -79,7 +79,7 @@ export const experience = [
       'Implement Custom/Reusable/Dynamic Components, Services, modules, pipes, directives, guard, interceptors',
       'Working with Restful APIs implements, sass, Angular Cli/Material/Cdk',
       'Worked On Projects: (JMD Hospital , Hotel Anjuman, Hotel Kd, Handy craft, New Balaji, Crustncakes, Pandit Ji Nimantran, Vivah Creation, Deals Ka Baap, Object Freeze, Cakes Out, SRK Inventory/School Management)',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, Firebase)'
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (2,4,5,6), Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, Firebase)'
     ]
   }
 ]
@@ -104,7 +104,11 @@ export const about = ['Senior Software Engineer with 7+ years of experience.  Cu
   // 'I am so passionate about',
   'I enjoy learning new things , Interested in new technologies and I am so passionate about development'
 ]
-export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular, Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx', 'Led a team of 4 people']
+export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular (2,4,5,6,7,8,9,10,11,12), Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx',
+  'Led a team of 4 people', 'Troubleshoot and resolve production bugs', 'stay upto date latest technologies',
+  'Design and development enhancement', 'Version control tool like git', 'dependency management tool like npm',
+   'Build tool like webpack and Animation on webpage', 'Css pre processor, unit testing, state management,pwa'
+   ]
 
 export const knowledge = [
   {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman']},
