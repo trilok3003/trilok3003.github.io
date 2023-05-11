@@ -50,7 +50,7 @@ export const experience = [
       'Worked On CI/CD Pipeline',
       'Worked On Projects: (Earther Web , Earther Mobile Ionic, Daybook, NBFC, Krc Infra Projects, Gaiasys Website, PWA based Projects)',
       // 'Accessibility',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (7,8,9,10,11,12), Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (7,8,9,10,11,12,13), Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
     ]
   },
   {
@@ -104,8 +104,9 @@ export const about = ['Senior Software Engineer with 7+ years of experience.  Cu
   // 'I am so passionate about',
   'I enjoy learning new things , Interested in new technologies and I am so passionate about development'
 ]
-export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular (2,4,5,6,7,8,9,10,11,12), Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx',
-  'Led a team of 4 people', 'Troubleshoot and resolve production bugs', 'stay upto date latest technologies',
+export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular (2,4,5,6,7,8,9,10,11,12,13), Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx',
+  // 'Led a team of 4 people',
+  'Troubleshoot and resolve production bugs', 'stay upto date latest technologies',
   'Design and development enhancement', 'Version control tool like git', 'dependency management tool like npm',
    'Build tool like webpack and Animation on webpage', 'Css pre processor, unit testing, state management,pwa'
    ]
