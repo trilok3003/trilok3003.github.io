@@ -1,0 +1,9 @@
+{
+    "apiKey": "AIzaSyAQszHYa_YW__6DdJDCqlKOsRBpszVz8sQ",
+    "authDomain": "rktect-rest.firebaseapp.com",
+    "databaseURL": "https://rktect-rest-default-rtdb.firebaseio.com",
+    "projectId": "rktect-rest",
+    "storageBucket": "rktect-rest.appspot.com",
+    "messagingSenderId": "797842765239",
+    "appId": "1:797842765239:web:e3ddfbb57fbdff9dd42432"
+  }

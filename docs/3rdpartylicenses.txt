@@ -79,6 +79,9 @@ Apache-2.0
 @firebase/component
 Apache-2.0
 
+@firebase/database
+Apache-2.0
+
 @firebase/firestore
 Apache-2.0
 
@@ -102,6 +105,8 @@ MIT
 @trilok3003/angular-components
 
 @trilok3003/angular-directives
+
+@trilok3003/angular-firebase
 
 @trilok3003/angular-pipes
 
@@ -153,6 +158,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 firebase/app
 
 firebase/auth
+
+firebase/database
 
 firebase/firestore
 

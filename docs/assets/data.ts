@@ -108,7 +108,8 @@ export const summary = ['Senior Software Engineer with 7+ years of experience in
   // 'Led a team of 4 people',
   'Troubleshoot and resolve production bugs', 'stay upto date latest technologies',
   'Design and development enhancement', 'Version control tool like git', 'dependency management tool like npm',
-   'Build tool like webpack and Animation on webpage', 'Css pre processor, unit testing, state management,pwa'
+   'Build tool like webpack and Animation on webpage', 'Css pre processor, unit testing, state management,pwa',
+   'Basic Knowledge of MongoDB, nodejs packages like expressjs, cors, nodemon'
    ]
 
 export const knowledge = [
