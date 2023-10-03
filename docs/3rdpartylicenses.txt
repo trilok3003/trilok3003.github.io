@@ -100,6 +100,9 @@ MIT
 @ngrx/store
 MIT
 
+@ngrx/store-devtools
+MIT
+
 @trilok3003/angular-bootstrap
 
 @trilok3003/angular-components
