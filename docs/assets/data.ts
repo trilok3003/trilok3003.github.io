@@ -1,6 +1,6 @@
 export const profileTitle = "Senior Software Engineer  | Angular  | Ionic"
 // export const profileImage = "assets/profile.jpeg";
-export const profileImage = "assets/main.jpg";
+export const profileImage = "assets/profile-circle.jpg";
 export const educations = [
   {
     name: 'Master of Computer Applications (MCA)',
@@ -104,13 +104,13 @@ export const about = ['Senior Software Engineer with 7+ years of experience.  Cu
   // 'I am so passionate about',
   'I enjoy learning new things , Interested in new technologies and I am so passionate about development'
 ]
-export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular (2,4,5,6,7,8,9,10,11,12,13), Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx',
+export const summary = ['Senior Software Engineer with 7+ years of experience in various technologies like Angular (2,4,5,6,7,8,9,10,11,12,13,14), Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx',
   // 'Led a team of 4 people',
   'Troubleshoot and resolve production bugs', 'stay upto date latest technologies',
   'Design and development enhancement', 'Version control tool like git', 'dependency management tool like npm',
-   'Build tool like webpack and Animation on webpage', 'Css pre processor, unit testing, state management,pwa',
-   'Basic Knowledge of MongoDB, nodejs packages like expressjs, cors, nodemon'
-   ]
+  'Build tool like webpack and Animation on webpage', 'Css pre processor, unit testing, state management,pwa',
+  // 'Basic Knowledge of MongoDB, nodejs packages like expressjs, cors, nodemon'
+]
 
 export const knowledge = [
   {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman']},
@@ -276,18 +276,38 @@ export const socialInfo = [
   {name: 'Gmail:', url: 'mailto:triloksingh1905@gmail.com', view: 'triloksingh1905@gmail.com', icon: 'fa fa-envelope'},
 ]
 export const certificates = ['https://www.freecodecamp.org/certification/trilok3003/responsive-web-design',
-'https://www.freecodecamp.org/certification/trilok3003/front-end-development-libraries'
+  'https://www.freecodecamp.org/certification/trilok3003/front-end-development-libraries'
 ]
 export const certificateList = [
-  {name: 'Angular (Basic)', issuedBy: 'hackerrank', link: 'https://www.hackerrank.com/certificates/6b98e38b5a12', issuedId: '6b98e38b5a12'},
-  {name: 'React (Basic)', issuedBy: 'hackerrank', link: 'https://www.hackerrank.com/certificates/6bf25e89d61f', issuedId: '6bf25e89d61f'},
+  {
+    name: 'Angular (Basic)',
+    issuedBy: 'hackerrank',
+    link: 'https://www.hackerrank.com/certificates/6b98e38b5a12',
+    issuedId: '6b98e38b5a12'
+  },
+  {
+    name: 'React (Basic)',
+    issuedBy: 'hackerrank',
+    link: 'https://www.hackerrank.com/certificates/6bf25e89d61f',
+    issuedId: '6bf25e89d61f'
+  },
   {name: 'Angular (2+)', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68326', issuedId: '68326'},
   {name: 'AngularJS (1.x)', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68806', issuedId: '68806'},
   {name: 'HTML/CSS', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68465', issuedId: '68465'},
   {name: 'Javascript', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68448', issuedId: '68448'},
   {name: 'React.js', issuedBy: 'cutshort', link: 'https://cutshort.io/certificate/68455', issuedId: '68455'},
-  {name: 'Front End Development Libraries', issuedBy: 'freecodecamp', link: 'https://www.freecodecamp.org/certification/trilok3003/front-end-development-libraries', issuedId: ''},
-  {name: 'Responsive Web Design', issuedBy: 'freecodecamp', link: 'https://www.freecodecamp.org/certification/trilok3003/responsive-web-design', issuedId: ''},
+  {
+    name: 'Front End Development Libraries',
+    issuedBy: 'freecodecamp',
+    link: 'https://www.freecodecamp.org/certification/trilok3003/front-end-development-libraries',
+    issuedId: ''
+  },
+  {
+    name: 'Responsive Web Design',
+    issuedBy: 'freecodecamp',
+    link: 'https://www.freecodecamp.org/certification/trilok3003/responsive-web-design',
+    issuedId: ''
+  },
 ]
 
 // TECHNICAL SKILLS: (done)
