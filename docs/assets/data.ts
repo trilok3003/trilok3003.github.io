@@ -1,3 +1,9 @@
+export const  contactInfo = [
+  {title: 'Address', description: "Noida"},
+  {title: 'Contact No', description: "91+ 7078525908"},
+  {title: "Email", description: "triloksingh1905@gmail.com"}
+]
+export const badges = ['Linkedin', 'HackerRank', 'CutShort', 'freecodecamp']
 export const profileTitle = "Senior Software Engineer  | Angular  | Ionic"
 // export const profileImage = "assets/profile.jpeg";
 export const profileImage = "assets/profile-circle.jpg";
@@ -83,7 +89,7 @@ export const experience = [
     ]
   }
 ]
-export const about = ['Senior Software Engineer with 7+ years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”',
+export const about = ['Senior Software Engineer with 8 years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”',
   'Expertise in Angular 2+, Ionic, Typescript, Javascript, Front end Development, Web Development, Mobile Development, PWA Development',
   'Creating Custom modules/Components/Directives/Pipes, Routing, Reactive Forms, Modules, Lazy Loading, Services, Rxjs, Guard, Interface Model',
   'State Menagement Using @Ngrx, Interceptors',
@@ -113,9 +119,9 @@ export const summary = ['Senior Software Engineer with 8+ years of experience in
 ]
 
 export const knowledge = [
-  {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman']},
+  {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman', 'OS (Windows, Ubuntu/Linux)', 'Webstorm, \n VS Code']},
   {name: 'Interest', items: ['Programming', 'Cricket', 'Movie', 'Music', 'Reading']},
-  {name: 'Another Skills', items: ['Linux', 'Windows']}
+  // {name: 'Another Skills', items: ['Linux', 'Windows']}
 ]
 export const skills = [
   {
@@ -141,7 +147,7 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Ionic', 'Typescript', 'rxjs', 'Angular CLI', 'Angular Material & CDK', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'OS (Windows, Ubuntu)', 'Webstorm, \n VS Code', 'Ngrx', 'Jasmine Framework', 'Karma', 'AWS', 'CI/CD Pipeline']
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Ionic', 'Typescript', 'rxjs', 'Angular CLI', 'Angular Material & CDK', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'Ngrx', 'Jasmine Framework', 'Karma', 'AWS', 'CI/CD Pipeline']
 export const portfolio = [
   {
     company: 'Gaiasys', items: [

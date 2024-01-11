@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio_all_in_one=self.webpackChunkportfolio_all_in_one||[]).push([[7613],{7613:(o,i,a)=>{a.d(i,{j:()=>n});var t=a(5e3);let n=(()=>{class e{constructor(l){this.ele=l,l.nativeElement.alt||(l.nativeElement.alt="image info")}}return e.\u0275fac=function(l){return new(l||e)(t.Y36(t.SBq))},e.\u0275dir=t.lG2({type:e,selectors:[["img"]]}),e})()}}]);
