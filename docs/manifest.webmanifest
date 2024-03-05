@@ -1,7 +1,8 @@
 {
-  "name": "portfolio-all-in-one",
+  "name": "portfolio",
   "short_name": "portfolio",
-  "theme_color": "#1976d2",
+  "description": "portfolio for works details",
+  "theme_color": "#9013fe",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
@@ -40,6 +41,12 @@
     {
       "src": "assets/icons/icon-192x192.png",
       "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-256x256.png",
+      "sizes": "256x256",
       "type": "image/png",
       "purpose": "maskable any"
     },

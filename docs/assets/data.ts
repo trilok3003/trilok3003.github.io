@@ -1,4 +1,4 @@
-export const  contactInfo = [
+export const contactInfo = [
   {title: 'Address', description: "Noida"},
   {title: 'Contact No', description: "91+ 7078525908"},
   {title: "Email", description: "triloksingh1905@gmail.com"}
@@ -24,39 +24,20 @@ export const experience = [
     company: 'Gaiasys Technology Pvt Ltd',
     address: 'Faridabad',
     skills: [
-      // 'Used NPM for installing required node modules and other published Angular NPM modules',
-      // 'Angular 2+ is of a Component Driven Architecture',
-      // 'Updated the application with new features of Angular.',
-      'Designed and developed the application using Angular 2+ framework along with HTML, CSS, Type Script, Java Script, Bootstrap, Node.js, NPM.',
-      // 'Working knowledge of front end optimization and performance techniques',
-      // 'Makes design recommendations towards the development of new code or reuse of existing code',
-      // 'easy to maintain and to ensure they are highly modularized',
-      // 'Cooperating with the back-end developer in the process of building the RESTful API',
-      // 'Work with mobile app developers',
-      'Worked on Ionic (Angular) Mobile',
-      'Implement Reusable/Dynamic Components, modules, pipes, directives,services,Router, guard (auth, permission etc)',
-      // 'Worked Extensively with Angular CLI for creating (Modules, components, Services, pipes, Directives).',
-      // 'Experience in creating self-contained, reusable and testable modules and components',
-      // 'Work with UI',
-      // 'Knowledge  front-end languages (JavaScript, HTML, CSS)',
-      // 'Building and implementing  user interfaces using  the Angular framework',
-      // 'Identify issues with front end code and rectify them to remove bugs',
-      // 'Implemented Angular Router to enable navigation while permission is granted',
-      // 'Worked on GIT as a version control',
-      'Worked On Auth Guard, Permission Guard, Interceptor, Base Api Service, Date Picker Customization',
-      'Interaction with Backend and Testing Team to rectify problems/bugs etc',
-      // 'Enhancement like Animation and Smooth Scroll Effect',
-      'knowledge of GIT, Import/Export CSV, Export PDF',
-      'PWA (Fast loading and works offline,  push notification), Service workers',
-      'Worked On Import/export CSV/excel, Worked On export PDF using Pdfmake and customized (dynamic)',
-      'Drag and Drop Functionalities, Auto Complete Search, Show More Api Data / Pagination Api Data , Animation, Smooth Scroll Effect, scss model',
-      'Build Project Develop/Staging/Production Mode and Deploy On Aws',
-      'State Menagement Using @Ngrx, Documentation using Compodoc, bundle-analyzer',
-      'Unit Testing with Jasmine Framework and Karma Test Runner',
-      'Worked On CI/CD Pipeline',
+      'Built dynamic , responsive and adaptable web applications',
+      'Used Unit Testing with Jasmine Framework and Karma Test Runner and State Management Using Ngrx',
+      'Delivered comprehensive front-end software and Worked with back-end programmers',
+      'designed and developed , built  and maintained business rules',
+      'collaborated with the team and mentor to new developers and will review code',
+      'Utilized Html5, css, bootstrap , javascript and typescript',
+      'used sdlc methodology Agile Scrum, Web Framework,Accessibility, Testing',
+      'creating angular application from  scratch and structure , build and  Deploy On Aws',
+      'Import/Export CSV and  Export PDF using reusable service and creating reusable features',
+      'implements PWA features such as works offline, version update, customize install app or add to home',
+      'implements search, filter, sorting , pagination , show more with  scrolling ',
+      'CI/CD Pipeline, Documentation using Compodoc, bundle-analyzer',
       'Worked On Projects: (Earther Web , Earther Mobile Ionic, Daybook, NBFC, Krc Infra Projects, Gaiasys Website, PWA based Projects)',
-      // 'Accessibility',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (7,8,9,10,11,12,13), Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (7,8,9,10,11,12,13,14,15), Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
     ]
   },
   {
@@ -65,13 +46,14 @@ export const experience = [
     company: 'Biorev Studios Pvt Ltd',
     address: 'Delhi',
     skills: [
-      'Developing the  Angular based SPA  and maintained frontend code , design new features and enhancements',
-      'Creating Custom modules/Components/Directives/Pipes, Routing, Reactive Forms, Modules, Lazy Loading, Services, Rxjs, Guard, Interface Model',
-      'Worked on GIT as a version control and Involved In Renderer (Canvas, Svg) Using Angular',
-      'knowledge of REST Api implements, Http Client, Interceptors, dynamic web applications, PWA, Service workers',
-      'Worked on Angular Google Maps (AGM), Angular Material and Drag/Drop using Angular cdk',
+      'Designed and developed user interfaces using Angular best practices',
+      'creating reuse components, services and features',
+      'developed features using Canvas, Svg',
+      'api integration in frontend application',
+      'implements interceptor features such loader,error and success toaster, auth, logging, refresh token',
+      'Used Google Map (AGM) package and Angular material and Angular CDK',
       'Worked On Projects : x-series 360  (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (6), Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Ionic, Firebase)',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (6), Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Firebase)',
     ]
   },
   {
@@ -80,10 +62,13 @@ export const experience = [
     company: 'Object Freeze Pvt Ltd',
     address: 'Noida',
     skills: [
-      'Worked on various Single Page Applications using Angular and Involved in designing UI and web applications utilizing JavaScript, Html, CSS, Json, integrating Restfull apis',
-      'Implemented the Drag and Drop functionality using angular cdk',
+      'creating web application and pages using html, css, js',
+      'design ,developed application using angular framework',
       'Implement Custom/Reusable/Dynamic Components, Services, modules, pipes, directives, guard, interceptors',
-      'Working with Restful APIs implements, sass, Angular Cli/Material/Cdk',
+      'api integration and crating reuse service in angular',
+      'worked on wordpress projects and websites',
+      'used  design , developed , deployed web application',
+      'maintained accessibility,usability, semantic and cross browser compatibility, responsive',
       'Worked On Projects: (JMD Hospital , Hotel Anjuman, Hotel Kd, Handy craft, New Balaji, Crustncakes, Pandit Ji Nimantran, Vivah Creation, Deals Ka Baap, Object Freeze, Cakes Out, SRK Inventory/School Management)',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (2,4,5,6), Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, Firebase)'
     ]
@@ -105,24 +90,42 @@ export const about = ['Senior Software Engineer with 8 years of experience.  Cur
   'Worked on PWA',
   'Used Serverless technologies like Firebase',
   'Worked on Bootstrap, Angular Material, export Pdf, import/export csv',
-  // 'I love doing multitasking work and skilled, with the ability to think logically and creativity strong, as well as educational background in accordance with current expertise.',
   'I love doing multitasking work and skilled, with the ability to think logically and creativity strong',
-  // 'I am so passionate about',
   'I enjoy learning new things , Interested in new technologies and I am so passionate about development'
 ]
-export const summary = ['Senior Software Engineer with 8+ years of experience in various technologies like Angular (2,4,5,6,7,8,9,10,11,12,13,14), Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx',
-  // 'Led a team of 4 people',
+export const summaryOld = ['Senior Software Engineer with 8+ years of experience in various technologies like Angular (2,4,5,6,7,8,9,10,11,12,13,14), Ionic, Typescript, Nodejs, javascript, rxjs, Html, css, scss, Bootstrap, AWS, CI/CD Pipeline, PWA, Unit test (Jasmine Framework and Karma), State Menagement Using @Ngrx',
   'Troubleshoot and resolve production bugs', 'stay upto date latest technologies',
   'Design and development enhancement', 'Version control tool like git', 'dependency management tool like npm',
-  'Build tool like webpack and Animation on webpage', 'Css pre processor, unit testing, state management,pwa, firebase',
-  // 'Basic Knowledge of MongoDB, nodejs packages like expressjs, cors, nodemon'
+  'Build tool like webpack and Animation on webpage', 'Css pre processor, unit testing, state management,pwa, firebase'
+];
+
+export const summary = [
+  '8 years of work experience in frontend developer with focus on developed and designed amazing user interfaces using HTML, css, javascript, typescript, angular framework',
+  'collaborated with backend developers to create high performing, interactive , responsive web applications',
+  'building reusable components and libraries for future use, developing web applications, developing new user interface features using angular',
+  'design, develop, responsive, pwa, accessibility and cross browser compatibility web application and optimizing maximum performance',
+  'have knowledge solid principals, oops, functional programming and sdlc methodologies such as jira scrum and Waterfall, Design',
+  'translating designs and wireframes into high quality code',
+  'Well, awareness in Git Versioning Control Tools and frontend development tools such as webpack, npm',
+  'understanding of Agile Scrum, Web Framework,Accessibility, Testing, debugging and problem-solving abilities',
+  'Expertise in Angular 2+ versions and currently using angular 15 version'
 ]
 
 export const knowledge = [
-  {name: 'Tools & Framework', items: ['Webstorm', 'Visual Studio Code, Postman', 'OS (Windows, Ubuntu/Linux)', 'Webstorm, \n VS Code']},
+  {
+    name: 'Tools & Framework',
+    items: ['Webstorm', 'Visual Studio Code, Postman', 'OS (Windows, Ubuntu/Linux)', 'Webstorm, \n VS Code']
+  },
   {name: 'Interest', items: ['Programming', 'Cricket', 'Movie', 'Music', 'Reading']},
-  // {name: 'Another Skills', items: ['Linux', 'Windows']}
+  {name: 'Frontend', items: ['Html, css, javascript, typescript, scss, rxjs, ngrx, angular']},
+  {name: 'Testing', items: ['Jasmine Framework', 'karma']},
+  {name: 'Project management', items: ['Jira', 'clickup']},
+  {name: 'wireframe Tool', items: ['figma']},
+  {name: 'conversation tools', items: ['slack', 'Flock']},
+  {name: 'git versioning', items: ['github, gitlab']},
+  {name: 'Other', items: ['Git', 'webpack', 'npm']},
 ]
+export const techStack = ['Wireframe Tool:: figma \n', 'Project management:: Jira, clickup \n', 'Git versioning:: github, gitlab']
 export const skills = [
   {
     name: 'Skills',
@@ -147,7 +150,7 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Ionic', 'Typescript', 'rxjs', 'Angular CLI', 'Angular Material & CDK', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'Ngrx', 'Jasmine Framework', 'Karma', 'AWS', 'CI/CD Pipeline']
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Ionic', 'Typescript', 'rxjs', 'Angular CLI', 'Angular Material & CDK', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'Ngrx', 'Jasmine Framework', 'Karma', 'AWS', 'CI/CD Pipeline', 'PWA']
 export const portfolio = [
   {
     company: 'Gaiasys', items: [
@@ -279,7 +282,7 @@ export const socialInfo = [
     icon: 'fa fa-stack-overflow'
   },
   {name: 'npmjs:', url: 'https://www.npmjs.com/~trilok3003', view: '', icon: 'fa fa-angle-double-right'},
-  {name: 'Gmail:', url: 'mailto:triloksingh1905@gmail.com', view: 'triloksingh1905@gmail.com', icon: 'fa fa-envelope'},
+  {name: 'Email:', url: 'mailto:triloksingh1905@gmail.com', view: 'triloksingh1905@gmail.com', icon: 'fa fa-envelope'},
 ]
 export const certificates = ['https://www.freecodecamp.org/certification/trilok3003/responsive-web-design',
   'https://www.freecodecamp.org/certification/trilok3003/front-end-development-libraries'
@@ -315,87 +318,3 @@ export const certificateList = [
     issuedId: ''
   },
 ]
-
-// TECHNICAL SKILLS: (done)
-//
-//   Web Technologies: HTML, CSS, Bootstrap, SASS, JSON.
-//
-//   JS Frameworks: Angular 2+, ReactJs, Ionic, Node.JS.
-//
-//   Programming Languages: JavaScript, TypeScript.
-//
-//   Version Control System: GIT.
-//
-//   Operating Systems: Windows, Linux, Unix.
-//
-//   Debugging Tools/Testing: Firebug, Karma, Jasmine, Protractor.
-//
-//   Databases: DB2, Oracle, MySQL and NoSQL like MongoDB.
-//
-//   IDE: Visual Studio Code, WebStorm.
-//
-//   Others: PrimeNG, Ngx-Bootstrap, RXJS, NGRX, Webpack, Babel, Gulp.
-// Methodologies : scrum, agile
-
-
-// Summary (done)
-
-// Experience with various IDE’s such as Visual Studio Code, Web Storm
-// Extensive experience working under Agile methodologies environment (scrum, Kanban)
-// Experience in working on MAC, Windows, and Linux - Ubuntu operating systems
-// Good experience in unit testing by using Karma and Mocha
-// Extensively used the repositories like GIT and SVN.
-// Extensively used  HTML5, CSS3 and java Script
-// Utilize Jasmine, Karma, Gulp, Grunt and NPM to build and test application
-// Used Jenkins/Maven for build Process to Generate Continuous Integration and Version Control is done by GIT.
-// Well experienced in writing test cases in Test Driven Development and Behavior Driven Development
-// Object-Oriented JavaScript
-// Expertise in React.JS framework and integrate them to Node.js server-side code
-// Experience in working with Angular 2/4 modules, services, templates, directives, services and dependency injection to create a SPA
-// Having 9 years of experience in developing Web Applications using HTML (4/5), CSS (2/3), JavaScript, TypeScript, Angular (2/4), Node.js
-
-// skils (done)
-
-// Web Technologies:: HTML4/ HTML5, CSS3, JavaScript, Bootstrap, Angular.js, Node.js, Express.js, React.js, JSON, Angular 2/4, TypeScript, Angular CLI
-
-// IDE s: Visual Studio Code, WebStorm
-
-// Debugging tools: Firebug, Chrome Developer Tools.
-
-// Operating systems: Linux - Ubuntu, Mac OS, Windows.
-
-// Servers: Apache Tomcat
-
-// Version Control: GIT.
-
-// Build Tools: Jenkins
-
-// Database: MongoDB.
-
-// // Experience Responsibilities: (done)
-
-// Used NPM for installing required node modules and other published Angular NPM modules.
-// Angular 2.0 is of a Component Driven Architecture.
-// Worked Extensively with Angular CLI for creating components, Services, pipes, Directives.
-// Updated the application with new features of Angular 4.
-// Worked on some new features of Angular 4 like new if else syntax, ng-templates, form validators.
-// Designed and developed the application using Angular 2 framework along with HTML5, CSS3, Type Script, Java Script, Bootstrap, Node.js, NPM, Mongo DB.
-// Enhanced legacy application by building new components in Angular 2 and typescript.
-// Developed single page applications using Angular 2, Typescript, web pack and grunt.
-// Involved in agile software methodologies using TEST DRIVEN DEVELOPMENT(TDD)
-// Used JIRA to keep track of bugs to reduce downtime, increase productivity, and Communication.
-
-// Angular.js/ React JS for developing the SPAs
-// Experience in Using SASS
-// As a backend developer, I was responsible for creating RESTFUL Web using Node.js & Express.js.
-// Developed client side drop down menus, search bars and drop down toggles using Twitter-Bootstrap.
-// Utilize Jasmine, Karma, Gulp and NPM to build and test applications.
-// Developed the Front end by using React Js and JavaScript.
-// Used Local Storage to store & retrieve insensitive user data during transition between the different pages.
-// Implemented the Drag and Drop functionality using angular cdk
-
-
-// Designed the web pages by using HTML, XHTML, CSS and deploy the script using with JavaScript.
-// Wrote external CSS file, which linked to the HTML file to increase the traffic of the web site.
-
-// Coded end to end (i.e. from GUI on Client side to Middleware to database and Connecting the back-end Systems)
