@@ -24,20 +24,22 @@ export const experience = [
     company: 'Gaiasys Technology Pvt Ltd',
     address: 'Faridabad',
     skills: [
-      'Built dynamic , responsive and adaptable web applications',
-      'Used Unit Testing with Jasmine Framework and Karma Test Runner and State Management Using Ngrx',
-      'Delivered comprehensive front-end software and Worked with back-end programmers',
-      'designed and developed , built  and maintained business rules',
-      'collaborated with the team and mentor to new developers and will review code',
-      'Utilized Html5, css, bootstrap , javascript and typescript',
-      'used sdlc methodology Agile Scrum, Web Framework,Accessibility, Testing',
       'creating angular application from  scratch and structure , build and  Deploy On Aws',
+      'creating ui , reuse components, pipes and services, to write test case , manage state',
+      // 'Built dynamic , responsive and adaptable web applications',
+      // 'Used Unit Testing with Jasmine Framework and Karma Test Runner and State Management Using Ngrx',
+      // 'Delivered comprehensive front-end software and Worked with back-end programmers',
+      // 'designed and developed , built  and maintained business rules',
+      'collaborated with the team and mentor to new developers and will review code',
+      // 'Utilized Html5, css, bootstrap , javascript and typescript',
+      'used sdlc methodology Agile Scrum, Web Framework,Accessibility, Testing',
       'Import/Export CSV and  Export PDF using reusable service and creating reusable features',
-      'implements PWA features such as works offline, version update, customize install app or add to home',
+      'implements PWA features, State Management using ngrx, angular material features, angular firebase',
+      // 'implements PWA features such as works offline, version update, customize install app or add to home',
       'implements search, filter, sorting , pagination , show more with  scrolling ',
-      'CI/CD Pipeline, Documentation using Compodoc, bundle-analyzer',
+      'CI/CD Pipeline, Documentation using Compodoc, bundle-analyzer, debugging and profiling (Augury)',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular, Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
       'Worked On Projects: (Earther Web , Earther Mobile Ionic, Daybook, NBFC, Krc Infra Projects, Gaiasys Website, PWA based Projects)',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (7,8,9,10,11,12,13,14,15), Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA)',
     ]
   },
   {
@@ -47,33 +49,31 @@ export const experience = [
     address: 'Delhi',
     skills: [
       'Designed and developed user interfaces using Angular best practices',
-      'creating reuse components, services and features',
-      'developed features using Canvas, Svg',
-      'api integration in frontend application',
+      'creating reuse components, services and features. developed features using Canvas, Svg',
+      // 'api integration in frontend application',
       'implements interceptor features such loader,error and success toaster, auth, logging, refresh token',
       'Used Google Map (AGM) package and Angular material and Angular CDK',
-      'Worked On Projects : x-series 360  (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (6), Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Firebase)',
+      'Worked On Projects : x-series 360  (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
     ]
   },
   {
-    designation: 'Software  Engineer',
+    designation: 'Frontend Developer',
     year: 'Sep, 2015 - Jan 2019',
     company: 'Object Freeze Pvt Ltd',
     address: 'Noida',
     skills: [
       'creating web application and pages using html, css, js',
-      'design ,developed application using angular framework',
-      'Implement Custom/Reusable/Dynamic Components, Services, modules, pipes, directives, guard, interceptors',
-      'api integration and crating reuse service in angular',
-      'worked on wordpress projects and websites',
-      'used  design , developed , deployed web application',
-      'maintained accessibility,usability, semantic and cross browser compatibility, responsive',
+      'design ,developed application using angular framework. worked on wordpress projects and websites',
+      // 'Implement Custom/Reusable/Dynamic Components, Services, modules, pipes, directives, guard, interceptors',
+      // 'api integration and crating reuse service in angular',
+      // 'used  design , developed , deployed web application',
+      // 'maintained accessibility,usability, semantic and cross browser compatibility, responsive',
+      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (2,4,5,6), Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, Firebase)',
       'Worked On Projects: (JMD Hospital , Hotel Anjuman, Hotel Kd, Handy craft, New Balaji, Crustncakes, Pandit Ji Nimantran, Vivah Creation, Deals Ka Baap, Object Freeze, Cakes Out, SRK Inventory/School Management)',
-      'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (2,4,5,6), Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, Firebase)'
     ]
   }
-]
+];
 export const about = ['Senior Software Engineer with 8 years of experience.  Currently, I am working at “Gaiasys Technology Pvt Ltd”',
   'Expertise in Angular 2+, Ionic, Typescript, Javascript, Front end Development, Web Development, Mobile Development, PWA Development',
   'Creating Custom modules/Components/Directives/Pipes, Routing, Reactive Forms, Modules, Lazy Loading, Services, Rxjs, Guard, Interface Model',
@@ -101,11 +101,10 @@ export const summaryOld = ['Senior Software Engineer with 8+ years of experience
 
 export const summary = [
   '8 years of work experience in frontend developer with focus on developed and designed amazing user interfaces using HTML, css, javascript, typescript, angular framework',
-  'collaborated with backend developers to create high performing, interactive , responsive web applications',
-  'building reusable components and libraries for future use, developing web applications, developing new user interface features using angular',
+  'collaborated with  developers to create high performing, interactive , responsive web applications',
+  'building reusable components and libraries for future use, developing web applications, developing new user interface features using angular and translating designs and wireframes into high quality code',
   'design, develop, responsive, pwa, accessibility and cross browser compatibility web application and optimizing maximum performance',
   'have knowledge solid principals, oops, functional programming and sdlc methodologies such as jira scrum and Waterfall, Design',
-  'translating designs and wireframes into high quality code',
   'Well, awareness in Git Versioning Control Tools and frontend development tools such as webpack, npm',
   'understanding of Agile Scrum, Web Framework,Accessibility, Testing, debugging and problem-solving abilities',
   'Expertise in Angular 2+ versions and currently using angular 15 version'
@@ -193,14 +192,14 @@ export const projects = [
     url: 'https://earther.gaiasys.in/',
     techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
   },
-  {name: 'Earther  Mobile App', description: [], techs: ['Angular', 'Ionic', 'Nodejs', 'TypeScript']},
+  {name: 'Earther  Mobile App', url: '', description: [], techs: ['Angular', 'Ionic', 'Nodejs', 'TypeScript']},
   {
     name: 'Daybook',
     description: [],
     url: 'https://daybook.gaiasys.org/',
     techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
   },
-  {name: 'NBFC', description: [], techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
+  {name: 'NBFC', url: '', description: [], techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']},
   {
     name: 'Krc Infra Projects',
     description: [],
@@ -237,7 +236,7 @@ export const projects = [
     url: 'https://xdesign360.com/',
     techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript']
   },
-]
+];
 export const othersWork = [
   {
     name: 'angular date picker library',
@@ -318,3 +317,36 @@ export const certificateList = [
     issuedId: ''
   },
 ]
+
+export const projectsForResume = [
+  {
+    name: 'Earther  Product',
+    description: ['this is civil construction based product which provide solutions like manage inventory, Hr, Product, services, credit debit notes, cash voucher, invoices, department wise responsibility, tare weight and gross weight for equipments.'],
+    url: 'https://earther.gaiasys.in/',
+    techs: ['Angular', 'Angular Material', 'Nodejs', 'TypeScript', 'Ngrx', 'Html', 'css', 'scss', 'laravel', 'mysql']
+  },
+  {
+    name: 'Daybook',
+    description: [
+      'Daybook handled the day wise credit debit entry particular account and provide stats etc. '
+    ],
+    url: 'https://daybook.gaiasys.org/',
+    techs: ['Angular', 'Angular Material', 'Bootstrap', 'Nodejs', 'TypeScript', 'Ngrx', 'Html', 'css', 'scss', 'laravel', 'mysql']
+  },
+  {
+    name: 'Krc Infra Projects',
+    description: [
+      'this is Krc Profile based web project'
+    ],
+    url: 'http://www.krcinfraprojects.com/',
+    techs: ['Html', 'Css', 'Javascript', 'Wordpress']
+  },
+  {
+    name: 'XPlat360',
+    description: [
+      'XPlat is a completely interactive Lot Management Tool from Biorev.'
+    ],
+    url: 'https://xplat360.com/',
+    techs: ['Html', 'css', 'Bootstrap', 'Agm', 'svg canvas', 'Angular', 'Angular Material', 'Nodejs', 'TypeScript']
+  }
+];

@@ -341,7 +341,12 @@ ${error.stack}`;
       const url = this.adapter.normalizeUrl(req.url);
       if (this.urls.indexOf(url) !== -1 || this.patterns.some((pattern) => pattern.test(url))) {
         const cache = await this.cache;
-        const cachedResponse = await cache.match(req, this.config.cacheQueryOptions);
+        let cachedResponse;
+        try {
+          cachedResponse = await cache.match(req, this.config.cacheQueryOptions);
+        } catch (error) {
+          throw new SwCriticalError(`Cache is throwing while looking for a match: ${error}`);
+        }
         if (cachedResponse !== void 0) {
           if (this.hashes.has(url)) {
             return cachedResponse;
@@ -518,7 +523,12 @@ ${error.stack}`;
       await this.urls.reduce(async (previous, url) => {
         await previous;
         const req = this.adapter.newRequest(url);
-        const alreadyCached = await cache.match(req, this.config.cacheQueryOptions) !== void 0;
+        let alreadyCached = false;
+        try {
+          alreadyCached = await cache.match(req, this.config.cacheQueryOptions) !== void 0;
+        } catch (error) {
+          throw new SwCriticalError(`Cache is throwing while looking for a match in a PrefetchAssetGroup: ${error}`);
+        }
         if (alreadyCached) {
           return;
         }
@@ -555,7 +565,12 @@ ${error.stack}`;
       await this.urls.reduce(async (previous, url) => {
         await previous;
         const req = this.adapter.newRequest(url);
-        const alreadyCached = await cache.match(req, this.config.cacheQueryOptions) !== void 0;
+        let alreadyCached = false;
+        try {
+          alreadyCached = await cache.match(req, this.config.cacheQueryOptions) !== void 0;
+        } catch (error) {
+          throw new SwCriticalError(`Cache is throwing while looking for a match in a LazyAssetGroup: ${error}`);
+        }
         if (alreadyCached) {
           return;
         }
@@ -872,6 +887,9 @@ ${error.stack}`;
     { positive: false, regex: "^/.*__" }
   ];
   var AppVersion = class {
+    get okay() {
+      return this._okay;
+    }
     constructor(scope2, adapter2, database, idle, debugHandler, manifest, manifestHash) {
       this.scope = scope2;
       this.adapter = adapter2;
@@ -902,9 +920,6 @@ ${error.stack}`;
         include: includeUrls.map((spec) => new RegExp(spec.regex)),
         exclude: excludeUrls.map((spec) => new RegExp(spec.regex))
       };
-    }
-    get okay() {
-      return this._okay;
     }
     async initializeFully(updateFrom) {
       try {
@@ -1017,7 +1032,7 @@ ${error.stack}`;
   };
 
   // bazel-out/darwin_arm64-fastbuild-ST-2e5f3376adb5/bin/packages/service-worker/worker/src/debug.mjs
-  var SW_VERSION = "14.2.4";
+  var SW_VERSION = "15.2.10";
   var DEBUG_LOG_BUFFER_SIZE = 100;
   var DebugHandler = class {
     constructor(driver, adapter2) {

@@ -162,3 +162,5 @@ const responsibilities = [
   'Working with Restful APIs implements, sass, Angular Cli/Material/Cdk',
 
 ]
+// https://www.qwikresume.com/resume-samples/angular-developer/
+// https://github.com/monsterlessonsacademy/monsterlessonsacademy/blob/427-resume-review-software-engineer/good-cv.md
