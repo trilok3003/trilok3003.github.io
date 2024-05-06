@@ -117,6 +117,8 @@ MIT
 
 @trilok3003/angular-website
 
+@trilok3003/ng-angular
+
 bootstrap
 MIT
 The MIT License (MIT)
@@ -391,8 +393,6 @@ Apache-2.0
  limitations under the License.
  
 
-
-starng
 
 tslib
 0BSD
