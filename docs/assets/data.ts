@@ -19,26 +19,46 @@ export const educations = [
 ]
 export const experience = [
   {
+    designation: 'Technical Lead',
+    year: 'July, 2024 - Present',
+    company: 'Cyient',
+    address: 'Noida',
+    skills: [
+      'Currently I am working with thales for migration angular js to angular 18',
+      'Technologies: (Html, Css, SCSS, TypeScript, Angular 18 , Node JS, Rxjs, Bootstrap, JSON, GIT, layout (flex,  grid), unit testing (jasmine and karma), state management using rxjs or signal',
+      'visualization data using slider/table/card/list and chart (highcharts), customize date picker, extract data using filter, sorting and pagination',
+      'creating core module and share module for project such as Auth/Role Guard, Auth/Error Interceptor, App Initializer'
+    ]
+  },
+  {
     designation: 'Senior Software  Engineer',
-    year: 'July, 2019 - Present',
+    year: 'July, 2019 - July, 2024',
     company: 'Gaiasys Technology Pvt Ltd',
     address: 'Faridabad',
-    skills: [
-      'creating angular application from  scratch and structure , build and  Deploy On Aws, Netlify',
+    skills1: [
+      'creating Angular applications from scratch, including structuring, building, and deploying them on AWS and Netlify',
       // 'creating ui , reuse components, pipes and services, to write test case , manage state',
       // 'Built dynamic , responsive and adaptable web applications',
       // 'Used Unit Testing with Jasmine Framework and Karma Test Runner and State Management Using Ngrx',
       // 'Delivered comprehensive front-end software and Worked with back-end programmers',
       // 'designed and developed , built  and maintained business rules',
-      'collaborated with the team and mentor to new developers and will review code',
+      'I collaborated with the team, mentored new developers, and reviewed code to ensure quality',
       // 'Utilized Html5, css, bootstrap , javascript and typescript',
-      'used sdlc methodology Agile Scrum, Web Framework,Accessibility, Testing',
+      'I utilized SDLC methodologies such as Agile Scrum,  focusing on web frameworks, accessibility, and testing',
       // 'Import/Export CSV and  Export PDF using reusable service and creating reusable features',
-      'implements PWA features, State Management using ngrx, angular material features, angular firebase, Import/Export CSV and  Export PDF, graph/chart, implements search, filter, sorting , pagination , show more with  scrolling ',
+      'implements PWA features, State Management using Ngrx/rxjs/signal, angular material/cdk,firebase, ',
+      'Import/Export CSV/JSON/PDF, graph/chart, upload file, implements search, filter, sorting , pagination , show more with  scrolling ',
       // 'implements PWA features such as works offline, version update, customize install app or add to home',
       // 'implements search, filter, sorting , pagination , show more with  scrolling ',
       'CI/CD Pipeline, Documentation using Compodoc, bundle-analyzer, debugging and profiling (Augury)',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Node JS, Rxjs, Bootstrap, JSON, GIT, REST APIs, Angular cli/Material/Cdk, Ionic, Firebase, AWS, CI/CD, PWA, Angular 7+ (v14, v15), layout (flex,  grid), unit testing (jasmine and karma)',
+      'Worked On Projects: (Earther Web , Earther Mobile Ionic, Daybook, NBFC, Krc Infra Projects, Gaiasys Website, PWA based Projects)',
+    ],
+    skills: [
+      'creating Angular applications from scratch, including structuring, building, and deploying them on AWS and Netlify',
+      'I collaborated with the team, mentored new developers, and reviewed code to ensure quality',
+      'I utilized SDLC methodologies such as Agile Scrum,  focusing on web frameworks, accessibility, testing, State Management, angular material',
+      'Import/Export CSV/JSON/PDF, graph/chart, upload file, implements search, filter, sorting , pagination , show more with  scrolling ',
       'Worked On Projects: (Earther Web , Earther Mobile Ionic, Daybook, NBFC, Krc Infra Projects, Gaiasys Website, PWA based Projects)',
     ]
   },
@@ -47,13 +67,17 @@ export const experience = [
     year: 'Jan, 2019 - July 2019',
     company: 'Biorev Studios Pvt Ltd',
     address: 'Delhi',
-    skills: [
+    skills1: [
       'Designed and developed user interfaces using Angular best practices',
       'creating reuse components, services and features. developed features using Canvas, Svg',
       // 'api integration in frontend application',
       // 'implements interceptor features such loader,error and success toaster, auth, logging, refresh token',
       'Used Google Map (AGM) package and Angular material and Angular CDK',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (6), Node JS, Rxjs, Bootstrap, JSON, Git, REST APIs, Angular Cli/Material/Cdk, Firebase), flex, grid, jasmine and karma',
+      'Worked On Projects : x-series 360  (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
+    ],
+    skills: [
+      'Used Google Map (AGM) package and Angular material and Angular CDK, Canvas, Svg',
       'Worked On Projects : x-series 360  (xseries360, xplat360, xhome360, xfloor360, xdesign360)',
     ]
   },
@@ -62,7 +86,7 @@ export const experience = [
     year: 'Sep, 2015 - Jan 2019',
     company: 'Object Freeze Pvt Ltd',
     address: 'Noida',
-    skills: [
+    skills1: [
       'creating web application and pages using html, css, js',
       'design ,developed application using angular framework. worked on wordpress projects and websites',
       // 'Implement Custom/Reusable/Dynamic Components, Services, modules, pipes, directives, guard, interceptors',
@@ -70,6 +94,11 @@ export const experience = [
       // 'used  design , developed , deployed web application',
       // 'maintained accessibility,usability, semantic and cross browser compatibility, responsive',
       'Technologies: (Html, Css, SASS, JavaScript, TypeScript, Angular (2,4,5,6), Node JS, Rxjs, Bootstrap, JSON, Accessibility, Git, REST APIs and Other Angular Cli/Material/Cdk, Ionic, Firebase)',
+      'Worked On Projects: (JMD Hospital , Hotel Anjuman, Hotel Kd, Handy craft, New Balaji, Crustncakes, Pandit Ji Nimantran, Vivah Creation, Deals Ka Baap, Object Freeze, Cakes Out, SRK Inventory/School Management)',
+    ],
+    skills: [
+      'creating web application and pages using html, css, js',
+      'design ,developed application using angular framework. worked on wordpress projects and websites',
       'Worked On Projects: (JMD Hospital , Hotel Anjuman, Hotel Kd, Handy craft, New Balaji, Crustncakes, Pandit Ji Nimantran, Vivah Creation, Deals Ka Baap, Object Freeze, Cakes Out, SRK Inventory/School Management)',
     ]
   }
@@ -110,6 +139,12 @@ export const summary = [
   'Expertise in Angular 2+ versions and currently using angular 15 version'
 ]
 
+export const summaryNew = [`I have 8+ years of work experience as a Frontend Developer, focusing on developing and designing amazing user interfaces using HTML, CSS, SCSS, JavaScript, TypeScript,  Angular framework, React.js, Ionic, PWA App. I have collaborated with developers to create high-performing, interactive, and responsive web applications, building reusable components and libraries.`,
+`I design and develop responsive web applications, ensuring accessibility and cross-browser compatibility while optimizing for maximum performance. I possess solid knowledge of programming principles, OOP, functional programming, and SDLC methodologies, including Jira, Scrum, and Waterfall.`,
+  'CI/CD Pipeline, Documentation using Compodoc, bundle-analyzer, debugging and profiling (Augury), unit testing, state management, wireframe',
+`Additionally, I am well-versed in Git version control tools and frontend development tools such as Webpack and NPM. I have a strong understanding of Agile Scrum practices, web frameworks, accessibility, testing, debugging, and problem-solving abilities. I specialize in Angular 2+ versions (2 to 18) and am currently using Angular 18`
+];
+
 export const knowledge = [
   {
     name: 'Tools & Framework',
@@ -124,7 +159,7 @@ export const knowledge = [
   {name: 'git versioning', items: ['github, gitlab']},
   {name: 'Other', items: ['Git', 'webpack', 'npm']},
 ]
-export const techStack = ['Wireframe Tool:: figma \n', 'Project management:: Jira, clickup \n', 'Git versioning:: github, gitlab']
+export const techStack = ['Wireframe Tool:: figma \n', 'Project management:: Jira, clickup \n', 'Git versioning:: github, gitlab', 'VS code, \n Webstorm']
 export const skills = [
   {
     name: 'Skills',
@@ -149,7 +184,7 @@ export const skills = [
     ]
   }
 ]
-export const skillItems = ['HTML', 'CSS', 'Javascript', 'SASS', 'Angular', 'Ionic', 'Typescript', 'rxjs', 'Angular CLI', 'Angular Material & CDK', 'npm', 'node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'Ngrx', 'Jasmine Framework', 'Karma', 'AWS', 'CI/CD Pipeline', 'PWA']
+export const skillItems = ['HTML', 'CSS', 'Javascript', 'Typescript', 'SASS/SCSS', 'Angular (v2 to v18)', 'Ionic', 'ReactJs', 'Rxjs', 'Angular CLI', 'Angular Material & CDK', 'Npm', 'Node js', 'Version Control (GIT)', 'Bootstrap', 'Firebase', 'REST API', 'JSON', 'Ngrx', 'Jasmine Framework', 'Karma', 'AWS', 'CI/CD Pipeline', 'PWA', 'Wordpress']
 export const portfolio = [
   {
     company: 'Gaiasys', items: [
@@ -321,7 +356,8 @@ export const certificateList = [
 export const projectsForResume = [
   {
     name: 'Earther  Product',
-    description: ['this is civil construction based product which provide solutions like manage inventory, Hr, Product, services, credit debit notes, cash voucher, invoices, department wise responsibility, tare weight and gross weight for equipments.'],
+    description1: ['this is civil construction based product which provide solutions like manage inventory, Hr, Product, services, credit debit notes, cash voucher, invoices, department wise responsibility, tare weight and gross weight for equipments.'],
+    description: ['this is civil construction based product which provide solutions.'],
     url: 'https://earther.gaiasys.in/',
     techs: ['Angular Material', 'Nodejs', 'TypeScript', 'Ngrx', 'Html', 'css', 'scss', 'laravel', 'mysql', 'Angular (v14, v15))', 'layout (flex,  grid)', 'unit testing (jasmine and karma)']
   },
@@ -347,6 +383,6 @@ export const projectsForResume = [
       'XPlat is a completely interactive Lot Management Tool from Biorev.'
     ],
     url: 'https://xplat360.com/',
-    techs: ['Html', 'css', 'Bootstrap', 'Agm', 'svg canvas', 'Angular Material', 'Nodejs', 'TypeScript', 'Angular 6', 'unit testing using jasmine and karma', 'css layout like flex, grid' ]
+    techs: ['Html', 'css', 'Bootstrap', 'Agm', 'svg canvas', 'Angular Material', 'Nodejs', 'TypeScript', 'Angular 6', 'unit testing using jasmine and karma', 'css layout like flex, grid' ],
   }
 ];
