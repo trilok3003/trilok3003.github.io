@@ -337,8 +337,6 @@ file header for details.
 
 @trilok3003/angular-bootstrap
 
-@trilok3003/angular-components
-
 @trilok3003/angular-pipes
 
 @trilok3003/angular-ui
