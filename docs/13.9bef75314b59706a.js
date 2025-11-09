@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_all_in_one=self.webpackChunkportfolio_all_in_one||[]).push([[13],{13:(a,n,o)=>{o.r(n),o.d(n,{FinalRouting:()=>t,default:()=>l});const t=[{path:"bookmark",loadComponent:()=>o.e(8126).then(o.bind(o,8126))},{path:"",redirectTo:"certificate",pathMatch:"full"}],l=t}}]);
