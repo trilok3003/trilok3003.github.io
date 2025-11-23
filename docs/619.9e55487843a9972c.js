@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_all_in_one=self.webpackChunkportfolio_all_in_one||[]).push([[619],{619:(c,e,t)=>{t.r(e),t.d(e,{default:()=>l});var o=t(4438);let l=(()=>{class s{static{this.\u0275fac=function(n){return new(n||s)}}static{this.\u0275cmp=o.VBU({type:s,selectors:[["app-css-demos"]],decls:0,vars:0,template:function(n,u){},encapsulation:3})}}return s})()}}]);
