@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_all_in_one=self.webpackChunkportfolio_all_in_one||[]).push([[8564],{8564:(t,l,n)=>{n.r(l),n.d(l,{default:()=>o});const o=[{path:"select-search",loadComponent:()=>Promise.all([n.e(9590),n.e(7600),n.e(2076),n.e(8834)]).then(n.bind(n,1457))},{path:"select-box",loadComponent:()=>n.e(8302).then(n.bind(n,8302))}]}}]);
