@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_all_in_one=self.webpackChunkportfolio_all_in_one||[]).push([[6383],{8764:(o,e,_)=>{_.d(e,{FY:()=>l.FY,Fv:()=>l.Fv});var l=_(5035)}}]);
