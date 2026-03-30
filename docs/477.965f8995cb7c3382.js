@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_all_in_one=self.webpackChunkportfolio_all_in_one||[]).push([[477],{477:(l,n,o)=>{o.r(n),o.d(n,{default:()=>t});const t=[{path:"products",loadComponent:()=>Promise.all([o.e(327),o.e(4774),o.e(7393)]).then(o.bind(o,7393))},{path:"house-design-tool",loadComponent:()=>o.e(3637).then(o.bind(o,3637))}]}}]);
