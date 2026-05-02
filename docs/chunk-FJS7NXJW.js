@@ -1,0 +1,1 @@
+import{ja as o}from"./chunk-AO3HSYED.js";var c=(()=>{class t{constructor(){this.postsSideNavs=[]}static{this.\u0275fac=function(r){return new(r||t)}}static{this.\u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{c as a};

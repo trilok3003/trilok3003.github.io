@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio_all_in_one=self.webpackChunkportfolio_all_in_one||[]).push([[8651],{8651:(e,l,n)=>{n.r(l),n.d(l,{default:()=>o});const o=[]}}]);
