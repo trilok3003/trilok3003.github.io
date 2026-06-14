@@ -1,1 +1,0 @@
-import{a}from"./chunk-VB7O5HZN.js";import{Ja as o,ja as r}from"./chunk-AO3HSYED.js";var d=(()=>{class t extends a{constructor(){super(...arguments),this.basePath="json-data-db",this.endpoint=""}static{this.\u0275fac=(()=>{let e;return function(i){return(e||(e=o(t)))(i||t)}})()}static{this.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{d as a};

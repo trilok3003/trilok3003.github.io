@@ -1,1 +1,0 @@
-import"./chunk-LL2PWVR2.js";var o=[{path:"products",loadComponent:()=>import("./chunk-Z4RBUVSX.js")},{path:"house-design-tool",loadComponent:()=>import("./chunk-OZHDQO4Y.js")},{path:"invoice-template",loadComponent:()=>import("./chunk-FWEIUDYM.js")},{path:"blueprint-template",loadComponent:()=>import("./chunk-TOXVI6UK.js")}],t=o;export{t as default};

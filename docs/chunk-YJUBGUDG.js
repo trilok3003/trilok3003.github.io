@@ -1,1 +1,0 @@
-import{a}from"./chunk-2VD2LPNH.js";import"./chunk-N55KN4DS.js";import"./chunk-NFGSCY3Y.js";import"./chunk-K23R22KY.js";import"./chunk-4BGIQJRH.js";import"./chunk-PPS7ZJW7.js";import"./chunk-DUHMB5NN.js";import"./chunk-AO3HSYED.js";import"./chunk-LL2PWVR2.js";export{a as ChapterProfanisModule};
