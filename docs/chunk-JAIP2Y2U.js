@@ -1,1 +1,0 @@
-import{a}from"./chunk-MFMGMHCY.js";import"./chunk-VMHA5WRM.js";import"./chunk-EUOQPZZK.js";import"./chunk-GOAZCKVM.js";import"./chunk-OCXMXXPM.js";import"./chunk-NMIBVC7Y.js";import"./chunk-HHIH4HLP.js";import"./chunk-LL2PWVR2.js";export{a as DashboardSidebarComponent};
