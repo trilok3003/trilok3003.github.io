@@ -1,1 +1,0 @@
-import{i as o}from"./chunk-LL2PWVR2.js";var t=[{path:"",loadComponent:()=>o(null,null,function*(){return yield import("./chunk-YZA62G7J.js")})},{path:"recursion",loadChildren:()=>import("./chunk-F3FDVISO.js").then(n=>n.RecursionModule)},{path:"hacker-ranks",loadChildren:()=>import("./chunk-XTSJSO77.js").then(n=>n.HackerRanksModule)}],a=t;export{a as default};

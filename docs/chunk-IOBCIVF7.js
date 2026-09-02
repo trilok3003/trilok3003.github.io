@@ -1,1 +1,0 @@
-import{a}from"./chunk-7VNUX6OL.js";import{$ as r,za as o}from"./chunk-ZYNWRTRZ.js";var f=(()=>{class t extends a{constructor(){super(...arguments),this.basePath="DYNAMICALLY-DB",this.endpoint=""}static{this.\u0275fac=(()=>{let e;return function(i){return(e||(e=o(t)))(i||t)}})()}static{this.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{f as a};
