@@ -1,0 +1,1 @@
+function i(r,o,a){let e={};for(let n of r){let t=o(n),u=a(n);e[t]||(e[t]={key:t,title:u,data:[]}),e[t].data.push(n)}return Object.values(e)}function c(r,o,a="asc"){return[...r].sort((e,n)=>{let t=e[o],u=n[o],s=t<u?-1:t>u?1:0;return a==="asc"?s:-s})}function f(r){return new Date(r).toISOString().split("T")[0]}export{i as a,c as b,f as c};
