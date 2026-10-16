@@ -1,1 +1,0 @@
-import"./chunk-LL2PWVR2.js";var o=[{path:"",loadComponent:()=>import("./chunk-FNPJVJS2.js"),children:[{path:"category/create",loadComponent:()=>import("./chunk-BCE4KD3U.js")},{path:"category/:id",loadComponent:()=>import("./chunk-ZDMCJZ5S.js")}]}],t=o;export{t as default};
