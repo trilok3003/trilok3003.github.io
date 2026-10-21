@@ -1,1 +1,0 @@
-import"./chunk-LL2PWVR2.js";var t=[{path:"list",loadComponent:()=>import("./chunk-6CBVTBCL.js")},{path:"create",loadComponent:()=>import("./chunk-R74G2CFA.js")},{path:"",redirectTo:"list",pathMatch:"full"}],o=t;export{o as default};
