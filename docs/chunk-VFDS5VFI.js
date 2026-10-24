@@ -1,0 +1,1 @@
+import"./chunk-LL2PWVR2.js";var e=a=>a.hasUnsavedChanges()?window.confirm("You have unsaved changes. Are you sure you want to leave this page?"):!0;var o=[{path:"",loadComponent:()=>import("./chunk-NIWTUH6D.js")},{path:":id",loadComponent:()=>import("./chunk-7IYJIQYK.js"),canDeactivate:[e]}],r=o;export{r as default};
